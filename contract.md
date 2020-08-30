@@ -6,6 +6,8 @@
 
 The adventure will take place on the continent of Wildemount from Critical Role Season 2. You may familiarize yourself with the setting by reading the Explorer's Guide to Wildemount, but don't feel that you have to. We'll all learn it together through the game. If you do look through the book, please refrain from reading the included adventures. I will likely use one of them as an initial adventure for this campaign.
 
+Big Damn Heroes&#8482;
+
 ### Open Ended
 
 We will not be following a set adventure. I want to explore running a D&D game where there is no set goal and see where the concept of shared story telling takes us and drop in interesting encounters and short adventures where needed.
@@ -145,15 +147,3 @@ Loot distribution can be determined by the players. I recommend an even split wi
 \page
 
 # House Rules
-
-## Catch your breath
-
-At any time outside of an encounter (combat, social, or exploration), any player may spend 6 seconds to catch their breath. Doing so will cause them to gain the benefits of a short rest. You may do this twice and you regain any expended uses when you complete a long rest. Players may independently spend this resource as they see fit.
-
-This feature replaces the normal guidelines regarding taking a short rest.
-
-
-## Downtime
-Players will be awarded downtime, among other rewards for successfully completing milestones. Players will have options to spend downtime at certain intervals.
-
-In addtion to the normal downtime activities outlined in the PHB, XGtE, and DMG, players will be able to spend downtime in various other ways including retroactively for preparation for current missions/adventures. (See flashbacks).
