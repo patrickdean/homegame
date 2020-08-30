@@ -60,6 +60,10 @@ You have an unhealthy obsession that tends to interfere in your life, whether wi
 ### Responsibility
 You feel a strong sense of accountability or relationship to a person, place, or thing (a responsibility to kin would fall under the Family obligation). This could include a strong connection to a mentor, a strong desire to care for orphans in a given location, or taking on the needs of an under-represented minority.
 
+### Possible Obligations by Background
+
+
+
 ## Starting Obligation
 
 The size of each player's starting Obligation is determined by the table below:
