@@ -112,3 +112,9 @@ Each player has the option to gain addtional obligation in exchange for addition
 | Ability Score Increase        | +15 Obligation |
 
 ## Obligation in play
+
+
+## Settling Obligation
+Obligation is meant to be a constanst source of drama in the campaign. Over time, characters will be able to settle their obligations. Some Obligations may go away entirely depending on their circumstances a debt may be paid, an oath fulfilled, or criminal charges may be dropped. In such cases, players should find ways to create new obligations for their characters so the Dungeon Master is always able to find ways to keep them engaged with the story.
+
+If in a particular instance, it doesn't make sense for a character's story to engage a new Obligation, the character may be retired or otherwise become an NPC.
