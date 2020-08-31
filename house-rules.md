@@ -1,3 +1,7 @@
+---
+order: 3
+---
+
 # House Rules
 The following rules are presented as options to the players to spice up the gameplay--and the narrative. I don't intend to use many house rules, nor do I intend to break any intended mechanics currently in the game.
 

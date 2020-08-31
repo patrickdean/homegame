@@ -1,3 +1,7 @@
+---
+order: 1
+---
+
 # The Game
 
 ## Overview
@@ -145,5 +149,3 @@ Role playing will be encouraged, but rhe players may role play to the level that
 Loot distribution can be determined by the players. I recommend an even split with the players agreeing upon magic item distribution, but anything is fine as long as it doesn't cause player conflict.
 
 \page
-
-# House Rules

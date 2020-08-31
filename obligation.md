@@ -1,3 +1,7 @@
+---
+order: 2
+---
+
 # Obligation
 
 Obligation plays a vital role in defining your Character. Simply put, obligation represents a debt a PC owes. At character creation, players may roll or choose an option based on thier backstory from the table below. If starting out with two obligations, obligation values are split between the two options.
