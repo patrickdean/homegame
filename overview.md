@@ -9,8 +9,6 @@ order: 1
 
 The adventure will take place on the continent of Wildemount from Critical Role Season 2. You may familiarize yourself with the setting by reading the Explorer's Guide to Wildemount, but don't feel that you have to. We'll all learn it together through the game. If you do look through the book, please refrain from reading the included adventures. I will likely use one of them as inspiration for the initial adventure for this campaign.
 
-Big Damn Heroes&#8482;
-
 ## Flavor
 
 ## Open Ended
