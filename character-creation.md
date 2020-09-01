@@ -28,15 +28,21 @@ Feats will be allowed. Multiclassing will be allowed, where it makes RP sense. B
 
 ### Heroic Chronicle
 
+The heroic chronicle represents your character's connection to the world.
+
 Players will build a backstory outline using the Heroic Chronicle system beginning on page 190 of the Explorer's Guide to Wildemount. Free to add detail, but I caution against adding too much. While a fully fleshed out backstory can certainly be interesting, it can also rob us of the ability to build it together. Leaving blanks makes it much easier for me to create compelling story hooks for your character.
 
 ### Obligation
+
+Obligation represents a major event in the character's backstory that will serve as one of their driving motivators.
 
 I have ported the Obligation system from Star Wars: Edge of the Empire. Players will be required to select (or roll for) an obligation. Obligation may give you the opporunity to have extra benefits at character creation as well. See section on Obligation.
 
 ### Bonds
 
-Players will be required to create at least one "Bond" with another party member. At the end of each session, you may resolve one bond. Resolution depends on both you and the character you share the bond with. You suggest the bond is resolved, and, if they agree, it is. When you do, you will gain XP equal to an Easy encounter for your character's level.
+Bonds represent the relationships that the characters have with each other.
+
+At creation, you will create at least one bond with another party member. At the end of each session, you may resolve one bond. Resolution depends on both you and the character you share the bond with. You suggest the bond is resolved, and, if they agree, it is. When you do, you will gain XP.
 
 You will always have at least one bond and may often have many. New bonds are created whenever a bond is resolved.
 
