@@ -1,13 +1,12 @@
 ---
-order: 2
+order: 4
 ---
-
 
 # Character Creation
 
 ## Level
 
-Players will begin play at level 2. If a new character enters play, they will be created no lower than the level of the lowest party member.
+Players will begin play at level 2. If a new player joins the campaign, they will be created no lower than the level of the lowest party member. When a player creates a replacement character, they will join the campaign with the same experience value as the character they replaced.
 
 ## Ability Score Generation
 
@@ -37,7 +36,11 @@ I have ported the Obligation system from Star Wars: Edge of the Empire. Players 
 
 ### Bonds
 
-Players will be required to have at least one "Bond" with another party member. This won't have a mechanical benefit but instead will aid in giving characters a reason to be together
+Players will be required to create at least one "Bond" with another party member. At the end of each session, you may resolve one bond. Resolution depends on both you and the character you share the bond with. You suggest the bond is resolved, and, if they agree, it is. When you do, you will gain XP equal to an Easy encounter for your character's level.
+
+You will always have at least one bond and may often have many. New bonds are created whenever a bond is resolved.
+
+See the document on Bonds from Dungeon World for inspiration.
 
 ## Enjoyment is Paramount
 

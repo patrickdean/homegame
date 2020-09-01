@@ -1,14 +1,12 @@
 ---
-order: 4
+order: 3
 ---
 
 # Player agreement
 
 ## Buy In
 
-The players will decide *how* or *why* their characters are invested in the adventure or the parties, not *if*.
-
-We'll use the first session to create the heroic chronicle, player bonds, and obligation. It is important that the characters have a reason to be together. The Players will "Buy-in"...ie, they choose *how* or *why* their character is interested in the adventure or staying with the group, not *if*.
+The players will decide *how* or *why* their characters are invested in the world, adventure, or the party, not *if*. To that end, we'll use the first session to solidify the characters' backstories by creating the heroic chronicle, player bonds, and obligation.
 
 ## The Wangrod Defense
 
@@ -18,14 +16,18 @@ I don't wish to run a game that involves player vs player combat and please don'
 
 See: [The Wangrod Defense](https://www.youtube.com/watch?v=JoYR3eCFqoA)
 
-## Narrate failure
-
-The players will narrate their skill failures
-
 ## Role Play
 
-Role playing will be encouraged, but rhe players may role play to the level that they feel comfortable with.
+Role playing will be encouraged, but the players may role play to the level that they feel comfortable with.
+
+## Narrate failure
+
+The players will narrate their skill check failures
 
 ## Loot Distribution
 
 Loot distribution may be determined by the players. I recommend an even split with the players agreeing upon magic item distribution, but anything is fine as long as it doesn't cause player conflict.
+
+## Player Absence
+
+Ideally, all players will be present at all times, but it is understood that this can't always be the case. In case of absence, please do your best to give as much notice as possible.

@@ -29,9 +29,9 @@ In the event of character death, a player may create a new character with the sa
 
 Characters may also be retired at logical intervals. New characters may be created following the same guidelines as death.
 
-### Absent Characters
+## Absent Characters
 
-I am willing to run the game as long as there are at least 2 players present. Absent characters will not earn experience. This may create an imbalance in party level and it's my belief that this works perfectly fine in practice. If a player falls behind considerably, we'll figure out how to address that should it come up. The goal is always to ensure the players are having fun
+I am willing to run the game as long as there are at least 2 players present. Absent characters will not earn experience. This may create an imbalance in party level and it's my belief that this will work perfectly fine in practice. If a player falls behind considerably, we'll figure out how to address that should it come up. The goal is always to ensure the players are having fun.
 
 ## Allowed source materials
 
@@ -48,8 +48,3 @@ Options from the following sources will be allowed without restriction. If you w
 
 * Gunslinger subclass for fighter (from Matt Mercer)
 * Blood Hunter class (from Matt Mercer)
-
-\page
-
-
-\page

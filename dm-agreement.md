@@ -1,8 +1,10 @@
 ---
-order: 3
+order: 2
 ---
 
 # DM Agreement
+
+The following are a list of some of the ideals that I, as the DM, strive to embody.
 
 ## Fan of the Heroes
 
@@ -10,7 +12,7 @@ A role playing game is a shared story telling experience between the DM and the 
 
 ## Unintended Consequences
 
-My goal is to help players understand the risk of thier actions. I've played in far to many games where the DM describes a scenario that is not fully understood by the player and then commits the player to their course of action. I don't want to be the DM who says "well, that's what you said you were going to do" when the player didn't fully understand the situation. I will strive to give the players the information they need to make their decisions.
+My goal is to help players understand the risk of their actions. I've played in far to many games where the DM describes a scenario that is not fully understood by the player and then commits the player to their course of action. I don't want to be the DM who says "well, that's what you said you were going to do" when the player didn't fully understand the situation. I want the players to information they need to make their decisions to help ensure they're having fun.
 
 ## The Rule of Cool
 
@@ -28,8 +30,8 @@ Sometimes, an on the fly ruling will be required. If, upon retrospection, it is 
 
 ## Transparency
 
-I find the game more interesting when players are aware of the challenge they are faced with. I intend to communcate the Armor and Difficulty classes of monsters and challenges. I will also roll monster attack and damage openly. Because of this, some rules that rely on an additional resource be spent(like a bardic inspiration die) before knowing success or failure will allowed to be rolled even though we will already know the result.
+I find the game more interesting when players are aware of the challenge they are faced with. I intend to communcate the Armor and Difficulty classes of monsters and challenges. I will also roll monster attack and damage openly. Because of this, some rules that rely on an additional resource be spent(like a bardic inspiration die) before knowing success or failure will allowed to be rolled even though we will already know the result ahead of time.
 
 ## Continuous Improvement
 
-Pursuant to the goals above, please share feedback. If you're not enjoying some aspect of the game, please talk to me about it and let's try and resolve it. Some of these rules may change or evolve as time goes. The intent is to do so for the better.
+Pursuant to the goals above, please share feedback. I am human with flaws like everyone else. My goal is to run a fun game with fair and consistent rules. If you're not enjoying some aspect of the game, please talk to me about it and let's try and resolve it. Some of these rules may change or evolve as time goes on. The intent is to do so for the better.
