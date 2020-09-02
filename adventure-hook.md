@@ -1,21 +1,24 @@
 # Adventure Hook
 
-
-You've never really found a place for yourself in the world yet. Be it by luck or by fate, you have found yourself in the employ of an explorer's guild.
+You've never really found a place for yourself in the world yet. Be it by luck or by fate, you stumbled on a pamphlet of an explorer's guild.
 
 Intrigued by the promise the pamphlet you received from them, you decided to enlist in their cause.
 
->##### Pamplet
->In this rip roaring adventure of two fisted action, you will
+This campaign will attempt to evoke feelings of pulp adventure: exploring exotic locals, unique battles with big stakes, and running afoul of remarkable villains. All a perfect foil for our likewise exceptional heroes.
+
+Over the course of the campaign, characters will confront their own dark pasts as will as that of ancient civilizations as well as be given the opportunity to strike out for themselves and form an adventuring company of their own.
+
+```
+```
+
+>##### The Bowen Company Pamphlet
+> Day to day life got you down? Looking for somewhere to run? Want to etch your name in to the annals of history? Look no further than the Bowen Company! Join this rip-roaring band of misfits as they seek to blaze new trails and make a name for themselves.
 >
 > * Visit exotic locales full of danger
 > * Carouse at run down taverns full of unsavory outlaws
-> * Delve into ancient tombs filled with untold riches
 > * Solve perilous puzzles
+> * Plunder ancient tombs of their untold riches
 > * Battle ancient ferocious beasts
 > * Outwit treacherous villains
-
-Day to day life got you down? Looking for somewhere to run? Want to blaze your name in to the pages of history?
-join this rip-roaring bunch of folks as they seek to blaze a new trail and make a name for themselves for themselves
-
-This campaign will attempt to evoke feelings of pulp adventure: exploring exotic locals, unique battles with big stakes, and running afoul of remarkable villains. The player characters are also remarkable, and up to the task.
+>
+> signed, Giles Bowen, the Bowen Company
