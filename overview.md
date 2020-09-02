@@ -17,7 +17,7 @@ We will not be following a set adventure. I want to explore running a D&D game w
 
 ## Experience
 
-I will be using a hybrid XP/milestone system. Experience will not be awarded based on monster participation, but achieving milestones. Milestones will be assigned a difficulty, and when overcome, will be awarded XP based on that difficulty. XP values will be generated approximate to the guidelines for Evaluating Encounter Difficulty on page 82 of the Dungeon Master's Guide.
+I will be using a hybrid XP/milestone system. Experience will not be awarded based on monster participation, but achieving milestones. Milestones will be assigned a difficulty, and when overcome, players will be awarded XP based on that difficulty. XP values will be generated approximate to the guidelines for Evaluating Encounter Difficulty on page 82 of the Dungeon Master's Guide.
 
 Players should expect to earn XP every session. My hope is characters will advance in level every 2-3 sessions after level 4. I will strive to make adjustments to try and hit this goal.
 
