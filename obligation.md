@@ -114,11 +114,29 @@ Each player has the option to gain additional obligation in exchange for additio
 |:-----------------------------:|:--------------:|
 | 1000gp                        | +5 Obligation  |
 | Minor Wondrous Item, uncommon | +5 Obligation  |
+| One skill or tool proficiency | +5 Obligation  |
 | 2500gp                        | +10 Obligation |
-| Major Wondrous Item, uncommon | +15 Obligation |
+| Major Wondrous Item, uncommon | +10 Obligation |
 | Ability Score Increase        | +15 Obligation |
 
 ## Obligation in play
+
+Obligation may have narrative or mechanical implications. Every session, the GM determines whether or not the group's total Obligation affects the game.
+
+Before each session, the DM rolls percentile dice and compares the results to the group's current outstanding Obligation. If the roll is greater than the party's total obligation, then their obligation is low enough that their collective debts are not pressing enough to affect them-- at least for now.
+
+If the roll is equal to or less than the total Obligation, then something related to their Obligation may introduce complications during the upcoming session. Furthermore, the roll can be used in conjunction with the group's Obligation table to determine exactly which PC's Obligation is triggered for the section.
+
+> ##### Assembling the Group's Obligation
+>
+> | Value    | Type     | Character |
+> |:--------:|:--------:|:---------:|
+> | 1 - 15   | Betrayal | Drizzt    |
+> | 16 - 25  | Family   | Wulgar    |
+> | 26 - 35  | Duty     | Bruenor   |
+> | 36 - 45  | Bounty   | Regis     |
+>
+> The DM arranges the group's obligation into a single table. This will allow the DM to see which character's obligation comes into play when they roll the percentile dice.
 
 
 ## Settling Obligation
