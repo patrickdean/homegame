@@ -21,4 +21,4 @@ Over the course of the campaign, characters will confront their own dark pasts a
 > * Battle ancient ferocious beasts
 > * Outwit treacherous villains
 >
-> signed, Giles Bowen, the Bowen Company
+> <p style="text-align: right;">&mdash;Giles Bowen, the Bowen Company</p>
