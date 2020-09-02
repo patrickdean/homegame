@@ -61,7 +61,7 @@ _______ shares my hunger for glory; the earth will tremble at our passing!
 > | 10    | 600 | 19    | 2400 |
 
 ### Bard
-This is not my first adventure with_______.
+This is not my first adventure with _______.
 
 I sang songs of _______ long before I ever met them in person.
 
@@ -134,7 +134,7 @@ I stole something from _______.
 
 _______ has my back when things go wrong.
 
-_______knows incriminating details about me.
+_______ knows incriminating details about me.
 
 _______ and I have a con running.
 ### Sorcerer
