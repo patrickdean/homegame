@@ -103,6 +103,15 @@ I worry about the ability of _______ to survive in the dungeon.
 _______ is soft, but I will make them hard like me.
 
 ### Monk
+
+They don’t realize it, but _______ is a great source of wise aphorisms.
+
+_______ is teaching me an interesting technique (martial or otherwise).
+
+_______’s ways exemplify the temptation of the laity’s life.
+
+_______ still manages to anger me.
+
 ### Paladin
 _______’s misguided behavior endangers their very soul!
 
@@ -129,7 +138,25 @@ _______knows incriminating details about me.
 
 _______ and I have a con running.
 ### Sorcerer
+_______ is the only one who sees past my facade.
+
+_______ wants to keep my power in check.
+
+_______ once journeyed with me on my hedonistic exploits.
+
+_______ wants to use my power to further their cause.
+
 ### Warlock
+I must hide my true nature from _______.
+
+_______ would make an excellent servant for my master.
+
+If anyone can save my soul, it is _______.
+
+_______ reminds me of better times.
+
+I know what _______ truly desires.
+
 ### Wizard
 _______ will play an important role in the events to come. I have foreseen it!
 

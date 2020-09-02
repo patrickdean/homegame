@@ -90,6 +90,9 @@ Obligation ties most strongly into background. Like backgrounds, Obligation is m
 #### Obligations by Class
 Certain classes may also be lean more towards certain obligations as well. For example, a paladin may be compelled by the Oath obligation. This by no means suggests that certain classes must take certain obligations. Perhaps the paladin does not feel as challenged by his Oath as he does by the favor he owes.
 
+<br/>
+<br/>
+
 ## Starting Obligation
 
 The size of each player's starting Obligation is determined by the table below:

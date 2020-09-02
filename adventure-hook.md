@@ -9,7 +9,7 @@ Intrigued by the promise the pamphlet you received from them, you decided to enl
 
 This campaign will attempt to evoke feelings of pulp adventure: exploring exotic locals, unique battles with big stakes, and running afoul of remarkable villains. All a perfect foil for our likewise exceptional heroes.
 
-Over the course of the campaign, characters will confront their own dark pasts as will as that of ancient civilizations as well as be given the opportunity to strike out for themselves and form an adventuring company of their own.
+Over the course of the campaign, characters will confront their own dark pasts as well as that of ancient civilizations and also be given the opportunity to strike out for themselves and form an adventuring company of their own.
 
 ```
 ```
