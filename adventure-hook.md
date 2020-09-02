@@ -1,3 +1,6 @@
+---
+order: false
+---
 # Adventure Hook
 
 You've never really found a place for yourself in the world yet. Be it by luck or by fate, you stumbled on a pamphlet of an explorer's guild.
