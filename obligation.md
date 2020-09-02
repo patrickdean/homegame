@@ -4,7 +4,7 @@ order: 6
 
 # Obligation
 
-Obligation plays a vital role in defining your Character. Simply put, obligation represents a debt a PC owes. At character creation, players may roll or choose an option based on thier backstory from the table below. If starting out with two obligations, obligation values are split between the two options.
+Obligation plays a vital role in defining your Character. Simply put, obligation represents a debt a PC owes. At character creation, players may roll or choose an option based on their backstory from the table below. If starting out with two obligations, obligation values are split between the two options.
 
 #### Obligation
 
@@ -47,7 +47,7 @@ You have a criminal record or were accused of a crime (perhaps even unjustly) an
 You owe someone a great deal. That debt may consist of money or something else. To make matters worse, depending on who owns the debt, even paying it off fully might not get you fully off the hook. If you were able to get that money, you can surely get more...right?
 
 ### Dutybound
-You have a deep sense of duty that you feel compelled to fulfill such as military service or making good on a contract, or following some kind of code. Unlike the Oath obligation, as Dutybound individual, you have some legal or ritualistic bind to an organiztion or cause making it extremely difficult or detrimental if you fail to live up to that committment.
+You have a deep sense of duty that you feel compelled to fulfill such as military service or making good on a contract, or following some kind of code. Unlike the Oath obligation, as Dutybound individual, you have some legal or ritualistic bind to an organization or cause making it extremely difficult or detrimental if you fail to live up to that commitment.
 
 ### Family
 You have deep ties to your family that require a great deal of time and attention. This could include providing care for or assistance to your siblings or parents, the management of an inheritance, trust, or family business, or simply mediating between squabbling family members.
@@ -56,12 +56,12 @@ You have deep ties to your family that require a great deal of time and attentio
 You owe a big favor. Perhaps officials looked the other way when you smuggled in goods, or a friend got you out of prison. Regardless, the favors are stacking up, and soon you're going to be asked to pay them back or return the favor. This favor could be called in a little at a time, prolonging the obligation.
 
 ### Oath
-You have some sworn some sort of oath that dictates your thoughts and actions, shaping your moral view of the world. This could be an oath to a deity, a way of living, or a willingness to sacrifice for the betterment of some group or cause. Whatever the case, the Oath should be both serious and make life difficult for you in some ways. It is a personal and deep undertaking, possibily without a truly obtainable end goal in sight. If you do not live up to this oath, you face an internal and moral struggle.
+You have some sworn some sort of oath that dictates your thoughts and actions, shaping your moral view of the world. This could be an oath to a deity, a way of living, or a willingness to sacrifice for the betterment of some group or cause. Whatever the case, the Oath should be both serious and make life difficult for you in some ways. It is a personal and deep undertaking, possibly without a truly obtainable end goal in sight. If you do not live up to this oath, you face an internal and moral struggle.
 
 \page
 
 ### Obsession
-You have an unhealthy obsession that tends to interfere in your life, whether with a celebrity, a region, a political movement, a cultural icon, or some other facet of society. You pursue this, possibily to the detriment of your health, finances, or well being. You tend to get along well with those who share your interest, but are looked upon with pity, amusement, or even a bit of fear by those who do not understand.
+You have an unhealthy obsession that tends to interfere in your life, whether with a celebrity, a region, a political movement, a cultural icon, or some other facet of society. You pursue this, possibly to the detriment of your health, finances, or well being. You tend to get along well with those who share your interest, but are looked upon with pity, amusement, or even a bit of fear by those who do not understand.
 
 ### Responsibility
 You feel a strong sense of accountability or relationship to a person, place, or thing (a responsibility to kin would fall under the Family obligation). This could include a strong connection to a mentor, a strong desire to care for orphans in a given location, or taking on the needs of an under-represented minority.
@@ -76,13 +76,13 @@ Obligation ties most strongly into background. Like backgrounds, Obligation is m
 | Charlatan              | Blackmail, Criminal, Debt                |
 | Criminal               | Addiction, Bounty, Criminal, Debt, Favor |
 | Spy                    | Betrayal, Dutybound, Favor               |
-| Entertainer/Gladiator  | Debt, Favor, Obession                    |
+| Entertainer/Gladiator  | Debt, Favor, Obsession                   |
 | Folk Hero              | Responsibility                           |
 | Guild Artisan/Merchant | Debt, Favor                              |
 | Hermit                 | Oath, Obsession, Responsibility          |
 | Noble/Knight           | Blackmail, Dutybound, Favor, Family      |
 | Outlander              | Bounty, Favor, Responsibility            |
-| Sage                   | Dutybound, Obssesion                     |
+| Sage                   | Dutybound, Obsession                     |
 | Sailor/Pirate          | Addiction, Criminal, Debt                |
 | Soldier                | Dutybound, Favor, Responsibility         |
 | Urchin                 | Addiction, Debt, Favor                   |
@@ -108,7 +108,7 @@ The size of each player's starting Obligation is determined by the table below:
 
 ## Additional Obligation
 
-Each player has the option to gain addtional obligation in exchange for additional benefits. Players can only choose each option once and cannot gain more additional obligation than their original starting value.
+Each player has the option to gain additional obligation in exchange for additional benefits. Players can only choose each option once and cannot gain more additional obligation than their original starting value.
 
 | Bonus                         | Cost           |
 |:-----------------------------:|:--------------:|
@@ -122,6 +122,6 @@ Each player has the option to gain addtional obligation in exchange for addition
 
 
 ## Settling Obligation
-Obligation is meant to be a constanst source of drama in the campaign. Over time, characters will be able to settle their obligations. Some Obligations may go away entirely depending on their circumstances a debt may be paid, an oath fulfilled, or criminal charges may be dropped. In such cases, players should find ways to create new obligations for their characters so the Dungeon Master is always able to find ways to keep them engaged with the story.
+Obligation is meant to be a constant source of drama in the campaign. Over time, characters may be able to settle their obligations. Some Obligations may go away entirely depending on their circumstances a debt may be paid, an oath fulfilled, or criminal charges may be dropped. In such cases, players should find ways to create new obligations for their characters so the Dungeon Master is always able to find ways to keep them engaged with the story.
 
 If in a particular instance, it doesn't make sense for a character's story to engage a new Obligation, the character may be retired or otherwise become an NPC.
