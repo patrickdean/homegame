@@ -28,6 +28,10 @@ The players will narrate their skill check failures
 
 Loot distribution may be determined by the players. I recommend an even split with the players agreeing upon magic item distribution, but anything is fine as long as it doesn't cause player conflict.
 
+## Discouraging Murderhoboism
+
+The PCs aren't expected to be heroes, but neither should they be villains. Still, it might make sense for a character's story for them to become villainous. Such situations should be discussed with the DM as it is likely that a villainous character should be moved to the realms of NPC.
+
 ## Player Absence
 
 Ideally, all players will be present at all times, but it is understood that this can't always be the case. In case of absence, please do your best to give as much notice as possible.

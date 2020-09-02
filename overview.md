@@ -36,9 +36,14 @@ Over the course of the campaign, characters will confront their own dark pasts a
 
 We will not be following a set adventure. I want to explore running a D&D game where there is no set goal and see where the concept of shared story telling takes us and drop in interesting encounters and short adventures where needed.
 
+<br/>
+<br/>
+
 ## A Living, Breathing World
 
+Actions have consequences, and while the characters may be big players in the world, they are not without rivals to their power. Characters will also have run-ins with the law, be sure to always to consider your choices and actions fully. An unjust murder may lead to a new obligation. Some settlements may allow you to make the problem go away with gold.
 
+The characters aren't expected to be heroes, but shouldn't be villains, either.
 
 ## Experience
 
@@ -48,13 +53,17 @@ Players should expect to earn XP every session. My hope is characters will advan
 
 ## Character Death and Retirement
 
-In the event of character death, a player may create a new character with the same (level|XP)? as the deceased character. Death should always be a possibilty, but I don't intend to punish players for it happening.
+In the event of character death, a player may create a new character with the same experience value as the deceased character. Death should always be a possibility, but I don't intend to punish players for it happening.
 
 Characters may also be retired at logical intervals. New characters may be created following the same guidelines as death.
 
 ## Absent Characters
 
-Ideally, everyone will be available all the time, but I understand that isn't always the case. Given the nature of the game, there may be opportunities to run the game with fewer players present if the story allows it. In situations like this, I'm willing to run the game with as few as two players. Absent characters will not earn experience. This may create an imbalance in party level and it's my belief that this will work perfectly fine in practice. If for whatever reason, this causes a player to fall behind considerably, we'll figure out how to address that should it. The goal is always to ensure the players are having fun.
+Ideally, everyone will be available all the time, but I understand that isn't always the case. Given the nature of the game, there may be opportunities to run the game with fewer players present if the story allows it. In situations like this, I'm willing to run the game with as few as two players.
+
+Absent characters will not earn experience. This may create an imbalance in party level and it's my belief that this will work perfectly fine in practice. If for whatever reason, this causes a player to fall behind considerably, we'll figure out how to address that should it. The goal is always to ensure the players are having fun.
+
+\page
 
 ## Allowed source materials
 

@@ -22,11 +22,11 @@ Most races will be permitted. Keep in mind that since this game will be more sto
 
 ## Optional Rules
 
-Feats will be allowed. Multiclassing will be allowed, where it makes RP sense. Background customization is also allowed.
+All feats will be allowed except Tavern Brawler. Multiclassing will be allowed, where it makes RP sense. Background customization is also allowed.
 
 ## Tavern Brawler
 
-A pulp action story wouldn't be complete without without a tavern brawl and a tavern brawl isn't any fun if all the only way for the characters to be effective in it is to paint the walls red with the blood of their enemies. To that end, all characters will gain the following benefits from the tavern brawler feat:
+A pulp action story wouldn't be complete without without a tavern brawl and a tavern brawl isn't any fun if the only way for the characters to be effective in it is to paint the walls red with the blood of their enemies. To that end, all characters will gain the following benefits from the tavern brawler feat:
 
 * You are proficient with improvised weapons.
 * Your unarmed strike uses a d4 for damage.
