@@ -6,7 +6,7 @@ order: 3
 
 ## Buy In
 
-The players will decide *how* or *why* their characters are invested in the world, adventure, or the party, not *if*. To that end, we'll use the first session to solidify the characters' backstories by creating the heroic chronicle, player bonds, and obligation.
+The players will decide *how* or *why* their characters are invested in the world, adventure, or the party, not *if*. To that end, we'll use the first session to solidify the characters' backstories, player bonds, and obligation.
 
 ## The Wangrod Defense
 
