@@ -12,7 +12,9 @@ A role playing game is a shared story telling experience between the DM and the 
 
 ## Unintended Consequences
 
-My goal is to help players understand the risk of their actions. I've played in far to many games where the DM describes a scenario that is not fully understood by the player and then commits the player to their course of action. I don't want to be the DM who says "well, that's what you said you were going to do" when the player didn't fully understand the situation. I want the players to information they need to make their decisions to help ensure they're having fun.
+The actions your characters undertake are risky. They have to be otherwise they wouldn't be adventurers. My goal is to help players understand the risk of the characters actions.
+
+I've played in far to many games where the DM describes a scenario that is not fully understood by the player and then commits the player to their course of action. I don't want to be the DM who says "well, that's what you said you were going to do" when the player didn't fully understand the situation. I want the players to information they need to make their decisions to help ensure they're having fun.
 
 ## The Rule of Cool
 
@@ -35,3 +37,5 @@ I find the game more interesting when players are aware of the challenge they ar
 ## Continuous Improvement
 
 Pursuant to the goals above, please share feedback. I am human with flaws like everyone else. My goal is to run a fun game with fair and consistent rules. If you're not enjoying some aspect of the game, please talk to me about it and let's try and resolve it. Some of these rules may change or evolve as time goes on. The intent is to do so for the better.
+
+I'm making this shit up as a go along. In a concerted effort to get better at making this shit up as I go along.

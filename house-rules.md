@@ -22,7 +22,6 @@ Before a roll, any player or the DM can offer a devil's bargain, which is a nega
 
 So before the barbarian pushes the evil sorcerer off of the dias into the pit of snakes, the DM says: "Devil's Bargain - you may take advantage on this test if you also knock the prisoner into the pit in your haste. Yes or No?"
 
-
 ## Downtime
 Players will be awarded downtime, among other rewards for successfully completing milestones. Players will have options to spend downtime whenever not currently engaged in a mission.
 

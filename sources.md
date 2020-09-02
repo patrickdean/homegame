@@ -12,7 +12,6 @@ Using Obligation in D&D 5e by bgg user DMSamuel
 
 https://boardgamegeek.com/thread/2131945/using-edge-empires-obligation-mechanic-instead-ins
 
-
 ### Bonds
 
 Dungeon World by LaTorra & Koebel
