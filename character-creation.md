@@ -26,17 +26,13 @@ Feats will be allowed. Multiclassing will be allowed, where it makes RP sense. B
 
 ## Backstory
 
-### Heroic Chronicle
-
-The heroic chronicle represents your character's connection to the world.
-
-Players will build a backstory outline using the Heroic Chronicle system beginning on page 190 of the Explorer's Guide to Wildemount. Free to add detail, but I caution against adding too much. While a fully fleshed out backstory can certainly be interesting, it can also rob us of the ability to build it together. Leaving blanks makes it much easier for me to create compelling story hooks for your character.
+In this campaign, I hope to drive a lot of the story from the characters' backstories. Therefore, creating an interesting one is important. I caution against adding too much detail. A fully defined story may prove to be inflexible and make it difficult to work it into the campaign.
 
 ### Obligation
 
-Obligation represents a major event in the character's backstory that will serve as one of their driving motivators.
+Obligation represents a major unresolved event in the character's backstory that will serve as one of their driving motivators. Players will be required to select (or roll for if they can't decide) an obligation. In this instance, feel free to add as much detail as possible as this part of your backstory isn't finished yet and will be a large factor in the campaign.
 
-I have ported the Obligation system from Star Wars: Edge of the Empire. Players will be required to select (or roll for) an obligation. Obligation may give you the opporunity to have extra benefits at character creation as well. See section on Obligation.
+Obligation may give you the opporunity to have extra benefits at character creation as well. See section on Obligation.
 
 ### Bonds
 
@@ -47,6 +43,12 @@ At creation, you will create at least one bond with another party member. At the
 You will always have at least one bond and may often have many. New bonds are created whenever a bond is resolved.
 
 See the document on Bonds from Dungeon World for inspiration.
+
+### Heroic Chronicle
+
+If you're having trouble coming up with a backstory, you can use the Heroic Chronicle on page 190 of the Explorer's Guide to Wildemount as inspiration.
+
+For everyone else, at least take a look at it to help fill in a few blanks you have like home town, favorite food and ally/rival relationships. Also, be sure to read up on your homeland and town.
 
 ## Enjoyment is Paramount
 
