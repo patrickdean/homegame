@@ -25,4 +25,4 @@ So before the barbarian pushes the evil sorcerer off of the dias into the pit of
 ## Downtime
 Players will be awarded downtime, among other rewards for successfully completing milestones. Players will have options to spend downtime whenever not currently engaged in a mission.
 
-In addtion to the normal downtime activities outlined in the PHB, XGtE, and DMG, players will be able to spend downtime in various other ways including retroactively in preparation for current missions/adventures. (See flashbacks).
+In addition to the normal downtime activities outlined in the PHB, XGtE, and DMG, players will be able to spend downtime in various other ways including retroactively in preparation for current missions/adventures. (See flashbacks).

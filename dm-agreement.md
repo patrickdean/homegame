@@ -32,7 +32,7 @@ Sometimes, an on the fly ruling will be required. If, upon retrospection, it is 
 
 ## Transparency
 
-I find the game more interesting when players are aware of the challenge they are faced with. I intend to communcate the Armor and Difficulty classes of monsters and challenges. I will also roll monster attack and damage openly. Because of this, some rules that rely on an additional resource be spent(like a bardic inspiration die) before knowing success or failure will allowed to be rolled even though we will already know the result ahead of time.
+I find the game more interesting when players are aware of the challenge they are faced with. I intend to communicate the Armor and Difficulty classes of monsters and challenges. I will also roll monster attack and damage openly. Because of this, some rules that rely on an additional resource be spent(like a bardic inspiration die) before knowing success or failure will allowed to be rolled even though we will already know the result ahead of time.
 
 ## Continuous Improvement
 

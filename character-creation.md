@@ -40,7 +40,7 @@ In this campaign, I hope to drive a lot of the story from the characters' backst
 
 Obligation represents a major unresolved event in the character's backstory that will serve as one of their driving motivators. Players will be required to select (or roll for if they can't decide) an obligation. In this instance, feel free to add as much detail as possible as this part of your backstory isn't finished yet and will be a large factor in the campaign.
 
-Obligation may give you the opporunity to have extra benefits at character creation as well. See section on Obligation.
+Obligation may give you the opportunity to have extra benefits at character creation as well. See section on Obligation.
 
 ### Bonds
 
