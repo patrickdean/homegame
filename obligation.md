@@ -125,18 +125,52 @@ Obligation may have narrative or mechanical implications. Every session, the GM 
 
 Before each session, the DM rolls percentile dice and compares the results to the group's current outstanding Obligation. If the roll is greater than the party's total obligation, then their obligation is low enough that their collective debts are not pressing enough to affect them-- at least for now.
 
-If the roll is equal to or less than the total Obligation, then something related to their Obligation may introduce complications during the upcoming session. Furthermore, the roll can be used in conjunction with the group's Obligation table to determine exactly which PC's Obligation is triggered for the section.
+If the roll is less than or equal to the total Obligation, then something related to their Obligation may introduce complications during the upcoming session. Furthermore, the roll can be used in conjunction with the group's Obligation table to determine exactly which PC's Obligation is triggered for the section.
 
 > ##### Assembling the Group's Obligation
 >
-> | Value    | Type     | Character |
-> |:--------:|:--------:|:---------:|
-> | 1 - 15   | Betrayal | Drizzt    |
-> | 16 - 25  | Family   | Wulgar    |
-> | 26 - 35  | Duty     | Bruenor   |
-> | 36 - 45  | Bounty   | Regis     |
+> | Value  | Type     | Character |
+> |:------:|:--------:|:---------:|
+> | 1-15   | Betrayal | Drizzt    |
+> | 16-25  | Family   | Wulgar    |
+> | 26-35  | Duty     | Bruenor   |
+> | 36-45  | Bounty   | Regis     |
 >
 > The DM arranges the group's obligation into a single table. This will allow the DM to see which character's obligation comes into play when they roll the percentile dice.
+
+When the party's Obligation is triggered, they suffer disadvantage on one ability check for the duration of the session. The PC whose Obligation is triggered suffers disadvantage on two. Roll on the following table below to determine which. If the same result occurs multiple times, no reroll is required as luck is on the character's side. This represents the mental strain the character suffers as result of being preoccupied with their Obligation or the worry they have for their party member's Obligation.
+
+If the PC's signature skill is selected they receive advantage instead of disadvantage representing the rare instance of being able to overcome the odds and turn a disadvantage into an advantage.
+
+#### Strained Ability Check
+| d100  | Skill Check             |
+|:-----:|:-----------------------:|
+| 01    | All Strength Checks     |
+| 02-07 | Athletics               |
+| 08-11 | All Dexterity Checks    |
+| 12-16 | Acrobatics              |
+| 17-24 | Initiative              |
+| 25-27 | Sleight of Hand         |
+| 28-34 | Stealth                 |
+| 35-39 | All Intelligence Checks |
+| 40-44 | Arcana                  |
+| 45-47 | History                 |
+| 48-52 | Investigation           |
+| 53    | Nature                  |
+| 54    | Religion                |
+| 55-59 | All Wisdom Checks       |
+| 60-62 | Animal Handling         |
+| 63-65 | Insight                 |
+| 66    | Medicine                |
+| 67-73 | Perception              |
+| 74-78 | Survival                |
+| 79-83 | All Charisma Checks     |
+| 84-86 | Deception               |
+| 87-89 | Intimidation            |
+| 90    | Performance             |
+| 91-95 | Persuasion              |
+| 96-98 | All Tools Checks        |
+| 99-00 | All Ability Checks      |
 
 
 ## Settling Obligation
