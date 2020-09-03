@@ -84,7 +84,7 @@ Options from the following sources will be allowed without restriction. If you w
 
 ## Experience
 
-I will be using a hybrid XP/milestone system. Experience will be awarded not based on monster participation, but rather by hitting various plot points. Plot points are assigned a rating (Minor, Medium, Major), and when overcome, players will be awarded XP based on that rating. XP values were generated approximate to the guidelines for Evaluating Encounter Difficulty on page 82 of the Dungeon Master's Guide. Consult the table to the right for specific experience point values by character level.
+I will be using a hybrid XP/milestone system. Experience will be awarded not based on monster participation, but rather by hitting various milestones. Milestones are assigned a rating (Minor, Medium, Major), and when overcome, players will be awarded XP based on that rating. XP values were generated approximate to the guidelines for Evaluating Encounter Difficulty on page 82 of the Dungeon Master's Guide. Consult the table to the right for specific experience point values by character level.
 
 Players should expect to earn XP every session. My hope is characters will advance in level every 2-3 sessions after level 4. I will strive to make adjustments to try and hit this goal.
 
@@ -96,7 +96,7 @@ At the end of each session, bonus experience may be awarded depending on the ans
 * Did we overcome a notable monster or enemy?
 * Did we loot a memorable treasure?
 
-For each "yes" answer, everyone gets experience equal to a minor plot point for their level.
+For each "yes" answer, everyone gets experience equal to a minor milestone for their level.
 
 Players may also resolve bonds that they feel have been resolved. If the player whose character you have a bond with agrees, you may mark the bond as resolved. You gain minor XP and write a new bond with whomever you wish.
 
@@ -106,7 +106,7 @@ Players may also resolve bonds that they feel have been resolved. If the player 
 
 <div class="classTable">
 
-#### Experience by Plot Point Rating
+#### Experience by Milestone Rating
 
 <br/>
 
