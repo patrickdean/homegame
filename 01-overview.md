@@ -42,9 +42,10 @@ We will not be following a set adventure. I want to explore running a D&D game w
 
 ## A Living, Breathing World
 
+The characters aren't expected to be heroes, but shouldn't be villains, either.
+
 Actions have consequences, and while the characters may be big players in the world, they are not without rivals to their power. Characters will also have run-ins with the law, be sure to always to consider your choices and actions fully. An unjust murder may lead to a new obligation. Some settlements may allow you to make the problem go away with gold.
 
-The characters aren't expected to be heroes, but shouldn't be villains, either.
 
 ## Character Death and Retirement
 
