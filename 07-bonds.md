@@ -13,7 +13,7 @@ Each bond is a simple statement that relates your character to another player ch
 
 A bond is resolved when it no longer describes how you relate to that person. That may be because circumstances have changed—Thelian used to have your back but after he abandoned you to the goblins, you’re not so sure. Or it could be because that’s no longer a question—you guided Wesley before and he owed you, but he paid that debt when he saved your life with a well-timed spell.
 
-Any time you look at a bond and think “that’s not a big factor in how we relate anymore” the bond is at a good place to resolve.
+Any time you look at a bond and think “that’s not a big factor in how we relate anymore” the bond is at a good place to resolve. When you feel a bond is resolved, ask the player whose character that bond is with if they feel it is resolved. If they agree, the bond is resolved. Your character gains experience equal to a minor milestone for their level. See table for exact values.
 
 ## Writing New Bonds
 
