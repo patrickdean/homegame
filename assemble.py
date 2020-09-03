@@ -9,11 +9,18 @@ files = sorted(
     key=lambda x: x.get("order"),
 )
 
-output = "\n\n\\page\n\n".join(map(lambda x: x.content, files))
-
 auto_page_div = "<div class='pageNumber auto'></div>"
 
-output = f"\n\n{auto_page_div}\n\n\\page\n\n".join(output.split("\\page")) + f"\n\n{auto_page_div}\n\n"
+
+def render(file):
+    foot_note_div = f"\n\n<div class='footnote'>{file['title']}</div>\n{auto_page_div}\n\n\\page\n\n"
+    return foot_note_div.join(file.content.split("\\page")) + foot_note_div.replace("\\page", "")
+
+
+outputs = iter(map(render, files))
+
+
+output = f"\n\n{auto_page_div}\n\n\\page\n\n".join(outputs) + f"\n\n{auto_page_div}\n\n"
 
 
 with open("dist/output.md", "w") as f:

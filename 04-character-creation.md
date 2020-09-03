@@ -1,5 +1,6 @@
 ---
 order: 4
+title: Character Creation
 ---
 
 # Character Creation

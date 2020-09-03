@@ -1,5 +1,6 @@
 ---
 order: 7
+title: Bonds
 ---
 
 # Bonds
@@ -46,19 +47,22 @@ _______ is always getting into trouble - I must protect them from themselves.
 
 _______ shares my hunger for glory; the earth will tremble at our passing!
 
-> ##### Experience per bond resolution
->
-> | Level | XP  | Level | XP   |
-> |:-----:|:---:|:-----:|:----:|
-> | 2     | 50  | 11    | 800  |
-> | 3     | 75  | 12    | 1000 |
-> | 4     | 125 | 13    | 1100 |
-> | 5     | 250 | 14    | 1250 |
-> | 6     | 300 | 15    | 1400 |
-> | 7     | 350 | 16    | 1600 |
-> | 8     | 450 | 17    | 2000 |
-> | 9     | 550 | 18    | 2100 |
-> | 10    | 600 | 19    | 2400 |
+<div class="classTable">
+
+##### Experience per bond resolution
+| Level | XP  | Level | XP   |
+|:-----:|:---:|:-----:|:----:|
+| 2     | 50  | 11    | 800  |
+| 3     | 75  | 12    | 1000 |
+| 4     | 125 | 13    | 1100 |
+| 5     | 250 | 14    | 1250 |
+| 6     | 300 | 15    | 1400 |
+| 7     | 350 | 16    | 1600 |
+| 8     | 450 | 17    | 2000 |
+| 9     | 550 | 18    | 2100 |
+| 10    | 600 | 19    | 2400 |
+
+</div>
 
 ### Bard
 This is not my first adventure with _______.
@@ -82,6 +86,8 @@ _______ is in constant danger, I will keep them safe.
 
 I am working on converting _______ to my faith.
 
+\page
+
 ### Druid
 _______ smells more like prey than a hunter.
 
@@ -90,8 +96,6 @@ The spirits spoke to me of a great danger that follows _______.
 I have showed _______ a secret rite of the Land.
 
 _______ has tasted my blood and I theirs. We are bound by it.
-
-\page
 
 ### Fighter
 _______ owes me their life, whether they admit it or not.
@@ -145,6 +149,10 @@ _______ wants to keep my power in check.
 _______ once journeyed with me on my hedonistic exploits.
 
 _______ wants to use my power to further their cause.
+
+
+```
+```
 
 ### Warlock
 I must hide my true nature from _______.

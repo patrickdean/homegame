@@ -1,5 +1,6 @@
 ---
 order: false
+title: Obligation, distilled
 ---
 
 ## Obligation Inspiration

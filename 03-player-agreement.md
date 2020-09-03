@@ -1,5 +1,6 @@
 ---
 order: 3
+title: Player Agreement
 ---
 
 # Player agreement

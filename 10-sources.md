@@ -1,9 +1,10 @@
 ---
 order: 10
+title: Credits
 ---
 
 
-# Sources
+# Credits
 
 A collection of sources I used in developing this document. I want to give credit where credit is due.
 
@@ -16,9 +17,10 @@ Using Obligation in D&D 5e by bgg user DMSamuel
 
 https://boardgamegeek.com/thread/2131945/using-edge-empires-obligation-mechanic-instead-ins
 
-### Bonds
+### Dungeon World by LaTorra & Koebel
 
-Dungeon World by LaTorra & Koebel
+* Bonds
+* End of Session (Move)
 
 #### Monk bonds
 

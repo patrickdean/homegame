@@ -1,5 +1,6 @@
 ---
 order: 6
+title: Obligation
 ---
 
 # Obligation

@@ -1,5 +1,6 @@
 ---
 order: 5
+title: House Rules
 ---
 
 # House Rules
