@@ -7,7 +7,9 @@ title: Player Agreement
 
 ## Buy In
 
-The players will decide *how* or *why* their characters are invested in the world, adventure, or the party, not *if*. To that end, we'll use the first session to solidify the characters' backstories, player bonds, and obligation.
+The players will decide *how* or *why* their characters are invested in the world, adventure, party, or the scene, not *if*. To that end, we'll use the first session to solidify the characters' backstories, player bonds, and obligation.
+
+We may begin a scene in medias res. After describing the scene, the DM may say, "Where are you and what are you doing?". It's the player's job to integrate the character into the scene.
 
 ## The Wangrod Defense
 
@@ -23,7 +25,7 @@ Role playing will be encouraged, but the players may role play to the level that
 
 ## Narrate failure
 
-The players will narrate their skill check failures
+The players will narrate their skill check failures. When the player makes the roll, the DM describe the result and the player will get to describe how it happened. This should prevent situations where a character trips and falls, shattering a priceless Ming vase even thought said character has +14 Stealth.
 
 ## Loot Distribution
 

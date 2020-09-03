@@ -20,7 +20,7 @@ def render(file):
 outputs = iter(map(render, files))
 
 
-output = f"\n\n{auto_page_div}\n\n\\page\n\n".join(outputs) + f"\n\n{auto_page_div}\n\n"
+output = f"\n\n\\page\n\n".join(outputs)
 
 
 with open("dist/output.md", "w") as f:
