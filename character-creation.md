@@ -36,6 +36,9 @@ A pulp action story wouldn't be complete without without a tavern brawl and a ta
 
 In this campaign, I hope to drive a lot of the story from the characters' backstories. Therefore, creating an interesting one is important. I caution against adding too much detail. A fully defined story may prove to be inflexible and make it difficult to work it into the campaign.
 
+```
+```
+
 ### Obligation
 
 Obligation represents a major unresolved event in the character's backstory that will serve as one of their driving motivators. Players will be required to select (or roll for if they can't decide) an obligation. In this instance, feel free to add as much detail as possible as this part of your backstory isn't finished yet and will be a large factor in the campaign.
@@ -66,6 +69,6 @@ For everyone else, at least take a look at it to help fill in a few blanks you h
 
 ## Enjoyment is Paramount
 
-If you're not enjoying a particular choice you've made with your character, I'm willing to be flexible and allow the opportunity to allow limited respec.
+If you're not enjoying a particular choice you've made with your character, I'm willing to be flexible and allow the ability to adjust your character one time. Additional respecs may be allowed at the DM's discretion.
 
-If a respec won't solve the problem, retirement is always an option.
+If doesn't solve the problem, retirement is always an option.

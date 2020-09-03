@@ -138,7 +138,7 @@ Each player has the option to gain additional obligation in exchange for additio
 
 ## Obligation in play
 
-Obligation may have narrative or mechanical implications. Every session, the GM determines whether or not the group's total Obligation affects the game.
+Obligation may have narrative or mechanical implications. Every session, the DM determines whether or not the group's total Obligation affects the game.
 
 ### Obligation Check
 
@@ -222,7 +222,7 @@ The DM has the option to set thresholds for the group's (or individual's) total 
 
 ## Obligation as a Resource
 
-Sometimes characters have the option to voluntarily accept additional obligation to obtain items and accomplish goals that would normally be out of their reach. In these cases, the GM may increase an existing Obligation by a certain amount, or decide to create an entirely new Obligation to reflect the transaction or events.
+Sometimes characters have the option to voluntarily accept additional obligation to obtain items and accomplish goals that would normally be out of their reach. In these cases, the DM may increase an existing Obligation by a certain amount, or decide to create an entirely new Obligation to reflect the transaction or events.
 
 Not all Obligation is created equal. Obligation does not have an equivalent value in gold; it's value is solely dependent on the circumstances, what is being acquired, the person or people being negotiated with, and so on. Acquiring a certain magic item on the black market may require 5 Obligation from a well-known fence, but could require 15 Obligation from a politician who needs to pull a few strings to ensure he retains plausible deniability about the entire affair.
 
