@@ -8,7 +8,6 @@ title: Credits
 
 A collection of sources I used in developing this document. I want to give credit where credit is due.
 
-
 ### Obligation
 
 Star Wars: Edge of the Empire by Fantasy Flight Games
@@ -42,3 +41,11 @@ https://drive.google.com/file/d/0ByeMILNKYu-uWEQ1WTJSTVh3WDQ/view
 Brandon Schmelz
 
 http://www.sotipro.com/DW_PDF/The_Warlock_-_A_Dungeon_World_compatible_class.pdf
+
+### Success at a Cost
+
+Fate Core by Evil Hat Productions
+
+### The Devil's Bargain
+
+Blades in the Dark by John Harper
