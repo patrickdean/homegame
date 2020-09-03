@@ -42,6 +42,12 @@ Obligation represents a major unresolved event in the character's backstory that
 
 Obligation may give you the opportunity to have extra benefits at character creation as well. See section on Obligation.
 
+#### Signature Skill
+
+At character creature, the player will select their character's signature skill. This represents the skill that the character excels at above all others and should be tied to their backstory in some way. Players are recommended to make their character's signature unique from others in the party, but it is not required.
+
+This may confer a benefit when the character's obligation is trigger. See Obligation for more details.
+
 ### Bonds
 
 Bonds represent the relationships that the characters have with each other.
