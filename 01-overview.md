@@ -68,7 +68,7 @@ Options from the following sources will be allowed without restriction. If you w
 * Xanathar's Guide to Everything
 * Explorer's Guide to Wildemount
 * Elemental Evil Player's Companion
-* Tasha's Guide to Everything will likely be allowed when it has been made available
+* Tasha's Guide to Everything (upon review)
 
 ### Other
 
@@ -105,7 +105,7 @@ Players may also resolve bonds that they feel have been resolved. If the player 
 
 <div class="classTable">
 
-#### Experience Table by Plot Point
+#### Experience by Plot Point Rating
 
 <br/>
 
