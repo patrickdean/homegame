@@ -9,13 +9,23 @@
     "js-beautify": "^1.13.0",
     "marked": "^1.1.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "nodemon": "^2.0.4",
+    "npm-run-all": "^4.1.5"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rm -rf ./dist && mkdir -p dist/css",
     "copy": "cp phb.standalone.css dist/css",
     "build": "npm run clean && npm run copy && npm start",
-    "start": "node assemble.js"
+    "start": "node assemble.js",
+    "nodemon": "npm run copy && nodemon assemble.js",
+    "sync": "browser-sync dist -w --port 3000 --reload-delay=500",
+    "dev": "npm-run-all -p nodemon sync"
+  },
+  "nodemonConfig": {
+    "ext": "js,json,md"
   },
   "repository": {
     "type": "git",
