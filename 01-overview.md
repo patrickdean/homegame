@@ -100,6 +100,9 @@ For each "yes" answer, everyone gets experience equal to a minor milestone for t
 
 Players may also resolve bonds that they feel have been resolved. If the player whose character you have a bond with agrees, you may mark the bond as resolved. You gain minor XP and write a new bond with whomever you wish.
 
+### Leveling Up
+
+When a character acheives enough experience to advance to the next level, they may do so during moments of relative safety. This may be after or in between missions, or during a long rest.
 
 ```
 ```
