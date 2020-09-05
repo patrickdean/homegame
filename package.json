@@ -1,0 +1,26 @@
+{
+  "name": "homegame",
+  "version": "1.0.0",
+  "description": "A collection of documents detailing rules and agreements for my 5e D&D home game.",
+  "main": "assemble.js",
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "handlebars": "^4.7.6",
+    "js-beautify": "^1.13.0",
+    "marked": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickdean/homegame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickdean/homegame/issues"
+  },
+  "homepage": "https://github.com/patrickdean/homegame#readme"
+}
