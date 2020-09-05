@@ -11,7 +11,11 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf ./dist && mkdir -p dist/css",
+    "copy": "cp phb.standalone.css dist/css",
+    "build": "npm run clean && npm run copy && npm start",
+    "start": "node assemble.js"
   },
   "repository": {
     "type": "git",
