@@ -11,6 +11,8 @@ The following are a list of some of the ideals that I, as the DM, strive to embo
 
 A role playing game is a shared story telling experience between the DM and the players. The goal of any role playing game should then be the enjoyment of all involved, my goal is give each player a chance to shine.
 
+This doesn't mean I want to only see them succeed, either. I want to see them sweat and bleed and struggle and sometimes fail. I root for them because they face real challenges. They will be tried and may be found wanting. But that's when they're at their most interesting.
+
 ## Unintended Consequences
 
 The actions your characters undertake are risky. They have to be otherwise they wouldn't be adventurers. My goal is to help players understand the risk of the characters actions.
