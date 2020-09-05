@@ -21,7 +21,7 @@ for (let file of files) {
     }
 }
 
-const templateFile = fs.readFileSync('./templates/template.html.hb', { encoding: 'utf8', flag: 'r' });
+const templateFile = fs.readFileSync('./templates/template.html.hbs', { encoding: 'utf8', flag: 'r' });
 const template = Handlebars.compile(templateFile);
 const render = beautify_html(template({ pages: contents }));
 
