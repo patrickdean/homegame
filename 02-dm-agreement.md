@@ -29,12 +29,12 @@ As a fan of the heroes, and with goal of enabling players to take on the role of
 
 Ability checks in D&D are binary and hearing "it didn't work" or "you've failed" in response to a check is boring. I want any action the characters make to move the game forward. If a rogue fails a check with thieves' tools, the lock may still be opened, just with additional consequences.
 
+```
+```
+
 ## On the Fly Rulings
 
 Sometimes, an on the fly ruling will be required. If, upon retrospection, it is deemed that this ruling was incorrect, the ruling will be corrected for future sessions. If a retroactive ruling is possible given the circumstance, it will be applied.
-
-```
-```
 
 ## Transparency
 
