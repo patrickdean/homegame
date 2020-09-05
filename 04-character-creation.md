@@ -72,6 +72,8 @@ If you're having trouble coming up with a backstory, you can use the Heroic Chro
 
 For everyone else, at least take a look at it to help fill in a few blanks you have like home town, favorite food and ally/rival relationships. Also, be sure to read up on your homeland and town.
 
+\page
+
 ## Enjoyment is Paramount
 
 If you're not enjoying a particular choice you've made with your character, I'm willing to be flexible and allow the ability to adjust your character one time. Additional respecs may be allowed at the DM's discretion.

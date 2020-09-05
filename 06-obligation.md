@@ -40,6 +40,9 @@ This obligation can represent that the character is either the betrayer or the b
 ### Blackmail
 Someone has discovered one of your dirty secrets and is using that knowledge to blackmail you. In order to keep the secret safe, you must do what you're told. Your blackmailer is savvy enough to keep the demands simple enough to maintain the blackmail for as long as possible.
 
+```
+```
+
 ### Bounty
 For some reason, you have a price on your head. This may be a legal warrant or even a contract by criminals, collection agencies, or even someone who felt their honor was violated in some way.
 

@@ -50,6 +50,7 @@ _______ shares my hunger for glory; the earth will tremble at our passing!
 <div class="classTable">
 
 ##### Experience per bond resolution
+
 | Level | XP  | Level | XP   |
 |:-----:|:---:|:-----:|:----:|
 | 2     | 50  | 11    | 800  |
