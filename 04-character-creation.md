@@ -60,7 +60,11 @@ At creation, you will create at least one bond with another party member. At the
 
 You will always have at least one bond and may often have many. New bonds are created whenever a bond is resolved.
 
-See the document on Bonds from Dungeon World for inspiration.
+See the section on Bonds for inspiration.
+
+### Allies and Rivals
+
+Players should integrate an ally and rival into their character's backstory. You may refer to to pages 194-195 of the Explorer's Guide to Wildemount and pages 123-125 of Xanathar's Guide to Everything for inspiration. Give them a relationship to your character as well as goals (XGtE 124). I'll handle defining their assets, plans, and their in game stats. Work them into your Obligation if you can, but it's not required.
 
 ### Heroic Chronicle
 
