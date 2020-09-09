@@ -15,9 +15,9 @@ This doesn't mean I want to only see them succeed, either. I want to see them sw
 
 ## Unintended Consequences
 
-The actions your characters undertake are risky. They have to be otherwise they wouldn't be adventurers. My goal is to help players understand the risk of the characters actions.
+The actions your characters undertake are risky. They have to be otherwise they wouldn't be adventurers. My goal is to help players understand the risk of the characters actions. If something would be obvious to the character, I will try my best to make sure it's obvious to the player. I find that it is profoundly unsportsmanlike to trick your players by withholding character information just because the player didn't think to ask for it.
 
-I've played in far to many games where the DM describes a scenario that is not fully understood by the player and then commits the player to their course of action. I don't want to be the DM who says "well, that's what you said you were going to do" when the player didn't fully understand the situation. I want the players to information they need to make their decisions to help ensure they're having fun.
+I've played in far too many games where the DM describes a scenario that is not fully understood by the player and then commits the player to their course of action. I don't want to be the DM who says "well, that's what you said you were going to do" (ie, the DM's Wangrod defense) when the player didn't fully understand the situation. The players must have access to the information they need to make their decisions to help ensure they're having fun.
 
 ## The Rule of Cool
 
@@ -25,12 +25,12 @@ It is my belief that 5th Edition Dungeons & Dragons is a very well designed game
 
 As a fan of the heroes, and with goal of enabling players to take on the role of pulp action heroes, I will do my best to let the Rule of Cool have final say (within reason). Having said this, if there's an action that you'd like to try that the rules might not traditionally support, let's talk about it. I want the actions that characters undertake to be audacious as I feel it increases the enjoyment of the game.
 
+```
+```
+
 ## Make Failure Interesting
 
 Ability checks in D&D are binary and hearing "it didn't work" or "you've failed" in response to a check is boring. I want any action the characters make to move the game forward. If a rogue fails a check with thieves' tools, the lock may still be opened, just with additional consequences.
-
-```
-```
 
 ## On the Fly Rulings
 
