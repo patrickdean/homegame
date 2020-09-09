@@ -5,7 +5,7 @@ title: Obligation, distilled
 
 # Obligation
 
-Obligation represents a debt that a PC owes. The following are modifications to the Obligation system as present in Star Wars: Edge of the Empire by Fantasy Flight Games
+Obligation represents a debt that a PC owes. The following are modifications to the Obligation system as present in Star Wars: Edge of the Empire by Fantasy Flight Games. This conversion follows all the same rules/guidelines for Obligation in EotE with the following modifications.
 
 ## Triggering Obligation
 
@@ -64,6 +64,8 @@ When the party's Obligation is triggered, they all roll once on the table below 
 Players will select a signature skill for their characters upon character creation. This should be an actual skill and not Initiative or a Tools proficiency. This represents the skill that the character excels at above all others and should be tied to their backstory in some way. Players are recommended to make their character's signature unique from others in the party, but it is not required.
 
 ## Starting Obligation
+
+Players may take on additional Obligation at character creation. Below is a table for additional rewards they can claim in exchange for Obligation.
 
 <div class="classTable">
 
