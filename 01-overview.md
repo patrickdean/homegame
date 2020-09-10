@@ -61,19 +61,11 @@ Absent characters will not earn experience. This may create an imbalance in part
 
 ## Allowed source materials
 
-Options from the following sources will be allowed without restriction. If you want to use something that isn't listed in these sources, let me know. It's probably fine, I just haven't considered or reviewed it.
+Any race, class, or character option from official Wizards of the Coast published materials will be allowed as long as it is not overly setting specific. If unsure of anything, run it by me.
 
-### Core
+<br/>
 
-* Player's Handbook
-* Xanathar's Guide to Everything
-* Explorer's Guide to Wildemount
-* Elemental Evil Player's Companion
-* Tasha's Guide to Everything (upon review)
-
-### Other
-
-* Artificer Class from Eberron: Rising from the Last War
+In addition, the following content will also be allowed:
 
 ### Third Party
 
