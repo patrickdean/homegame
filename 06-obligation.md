@@ -127,14 +127,14 @@ Each player has the option to gain additional obligation in exchange for additio
 
 ##### Additional Obligation
 
-| Bonus                         | Cost           |
-|:-----------------------------:|:--------------:|
-| 1000gp                        | +5 Obligation  |
-| Minor Wondrous Item, uncommon | +5 Obligation  |
-| One skill or tool proficiency | +5 Obligation  |
-| 2500gp                        | +10 Obligation |
-| Major Wondrous Item, uncommon | +10 Obligation |
-| Ability Score Increase        | +15 Obligation |
+| Bonus                          | Cost           |
+|:------------------------------:|:--------------:|
+| 1000gp                         | +5 Obligation  |
+| Minor Wondrous Item, uncommon  | +5 Obligation  |
+| One skill or tool proficiency  | +5 Obligation  |
+| 2500gp                         | +10 Obligation |
+| Major Wondrous Item, uncommon  | +10 Obligation |
+| Ability Score Increase/Feat    | +15 Obligation |
 
 </div>
 

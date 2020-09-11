@@ -7,6 +7,7 @@ order: 9
 ### 2020-09-11
 #### Minor Changes
 * Character Creation > Signature Skill (grammar)
+* Obligation > Additional Obligation (make it clear that a feat is an option)
 
 ### 2020-09-10
 #### Minor Changes
