@@ -4,6 +4,11 @@ order: 9
 
 # Version History
 
+### 2020-09-18
+#### New Sections
+* DM Agreement > Consequences of Failure
+* Player Agreement > Describe Actions, Not Skill Checks
+
 ### 2020-09-11
 #### Minor Changes
 * Character Creation > Signature Skill (grammar)
