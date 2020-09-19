@@ -33,6 +33,9 @@ Role playing will be encouraged, but the players may role play to the level that
 
 The players will narrate their skill check failures. When the player makes the roll, the DM describe the result and the player will get to describe how it happened. This should prevent situations where a character trips and falls, shattering a priceless Ming vase even thought said character has +14 Stealth.
 
+```
+```
+
 ## Loot Distribution
 
 Loot distribution may be determined by the players. I recommend an even split with the players agreeing upon magic item distribution, but anything is fine as long as it doesn't cause player conflict.
@@ -40,9 +43,6 @@ Loot distribution may be determined by the players. I recommend an even split wi
 ## Discouraging Murderhoboism
 
 The PCs aren't expected to be heroes, but neither should they be villains. Still, it might make sense for a character's story for them to become villainous. Such situations should be discussed with the DM as it is likely that a villainous character should be moved to the realms of NPC.
-
-```
-```
 
 ## Player Absence
 

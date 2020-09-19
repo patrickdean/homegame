@@ -4,6 +4,17 @@ order: 9
 
 # Version History
 
+### 2020-09-19
+#### Major Changes
+* Character Creation > Race
+    * Variant Human is not permitted.
+* Obligation > Additional Obligation
+    * Modify Rewards and Costs for Additional obligation
+
+#### Minor Changes
+* Player Agreement
+    * Formatting
+
 ### 2020-09-18
 #### New Sections
 * DM Agreement > Consequences of Failure
@@ -11,8 +22,10 @@ order: 9
 
 ### 2020-09-11
 #### Minor Changes
-* Character Creation > Signature Skill (grammar)
-* Obligation > Additional Obligation (make it clear that a feat is an option)
+* Character Creation > Signature Skill
+    * Grammar
+* Obligation > Additional Obligation
+    * Make it clear that a feat is an option
 
 ### 2020-09-10
 #### Minor Changes

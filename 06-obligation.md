@@ -123,18 +123,18 @@ Players will select a signature skill for their characters upon character creati
 
 Each player has the option to gain additional obligation in exchange for additional benefits. Players can only choose each option once and cannot gain more additional obligation than their original starting value.
 
+Magic Items are subject to DM approval.
+
 <div class="classTable">
 
 ##### Additional Obligation
 
 | Bonus                          | Cost           |
 |:------------------------------:|:--------------:|
-| 1000gp                         | +5 Obligation  |
+| 1500gp                         | +5 Obligation  |
 | Minor Wondrous Item, uncommon  | +5 Obligation  |
-| One skill or tool proficiency  | +5 Obligation  |
-| 2500gp                         | +10 Obligation |
 | Major Wondrous Item, uncommon  | +10 Obligation |
-| Ability Score Increase/Feat    | +15 Obligation |
+| Ability Score Increase/Feat    | +10 Obligation |
 
 </div>
 

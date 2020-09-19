@@ -19,7 +19,9 @@ A relic from the past. Feel free to omit it or just use it as a compass, but don
 
 ## Race
 
-Most races will be permitted. Keep in mind that since this game will be more story driven that NPC attitudes towards various races will be taken into account. This could be good or bad depending on the experience you want to have as a player.
+Variant human is **not** permitted because starting with a feat will be allowed via the Obligation system.
+
+ Most other races will be permitted. Keep in mind that since this game will be more story driven that NPC attitudes towards various races will be taken into account. This could be good or bad depending on the experience you want to have as a player.
 
 ## Optional Rules
 
