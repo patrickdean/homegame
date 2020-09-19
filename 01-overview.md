@@ -15,8 +15,8 @@ You've never really found a place for yourself in the world yet. Be it by luck o
 
 Intrigued by the promise the pamphlet you received from them, you decided to enlist in their cause.
 
->##### The Bowen Company Pamphlet
-> Day to day life got you down? Looking for somewhere to run? Want to etch your name in to the annals of history? Look no further than the Bowen Company! Join this rip-roaring band of misfits as they seek to blaze new trails and make a name for themselves.
+>##### The Bainbridge Explorer's Society Pamphlet
+> Day to day life got you down? Looking for somewhere to run? Want to etch your name in to the annals of history? Look no further than the Bainbridge Explorer's Society! Join this rip-roaring band of misfits as they seek to blaze new trails and make a name for themselves.
 >
 > * Visit exotic locales full of danger
 > * Carouse at run down taverns full of unsavory outlaws
@@ -25,7 +25,7 @@ Intrigued by the promise the pamphlet you received from them, you decided to enl
 > * Battle ancient ferocious beasts
 > * Outwit treacherous villains
 >
-> <p style="text-align: right;">&mdash;Giles Bowen, the Bowen Company</p>
+> <p style="text-align: right;">&mdash;Arthur Bainbridge, the Bainbridge Explorer's Society</p>
 
 ## Flavor
 

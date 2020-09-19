@@ -6,6 +6,8 @@ order: 9
 
 ### 2020-09-19
 #### Major Changes
+* Overview
+    * Rename company and NPC
 * Character Creation > Race
     * Variant Human is not permitted.
 * Obligation > Additional Obligation
