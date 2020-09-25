@@ -27,14 +27,16 @@ Each day, everyone will make an ability check corresponding to their roll. On a 
 
 When making a roll for a danger or discovery, consult the corresponding table for the location.
 
-### Example DCs
+#### Example Navigation DCs
 
-Very Easy | 5
-Easy | 10
-Medium | 15
-Hard | 20
-Very Hard | 25
-Nearly Impossible | 30
+| Difficulty        | DC |
+|:-----------------:|:--:|
+| Very Easy         | 5  |
+| Easy              | 10 |
+| Medium            | 15 |
+| Hard              | 20 |
+| Very Hard         | 25 |
+| Nearly Impossible | 30 |
 
 ### Navigator
 
@@ -44,7 +46,20 @@ You may make a Wisdom (Survival) or Intelligence (Navigator's Tools) check vs th
 
 #### Navigator Opportunities
 
+
+| Opportunity           | 2d6 |
+|:---------------------:|:---:|
+|                       |     |
+| Find a shortcut!      | 11  |
+| Make a Discovery      | 12  |
+
 #### Navigator Complications/Setbacks
+
+| Complication          | 2d6 |
+|:---------------------:|:---:|
+|                       |     |
+| Encounter an Obstacle | 11  |
+| Encounter a Danger    | 12  |
 
 ### Scout
 
@@ -54,7 +69,17 @@ Make a Wisdom (Perception) check vs the Scout DC of the location. On a success, 
 
 #### Scout Opportunities
 
+| Opportunity           | 2d6 |
+|:---------------------:|:---:|
+| You get the Drop on any danger you may encounter |     |
+| Make a Discovery      | 12  |
+
 #### Scout Complications
+
+| Complication       | 2d6 |
+|:------------------:|:---:|
+|                    |     |
+| Encounter a Danger | 12  |
 
 ### Quartermaster
 
@@ -66,7 +91,17 @@ On a success, roll for an opportunity.
 
 #### Quartermaster Opportunities
 
+| Opportunity           | 2d6 |
+|:---------------------:|:---:|
+|                       |     |
+| Great Success!        | 12  |
+
 #### Quartermaster Complications
+
+| Complication       | 2d6 |
+|:------------------:|:---:|
+|                    |     |
+| Encounter a Danger | 12  |
 
 ## Other Actions
 
@@ -78,12 +113,99 @@ Make a Wisdom (Survival) check vs the Forage DC of the location. On a success, y
 
 #### Foraging Opportunities
 
-* You make a discovery
-*
+| Opportunity           | 2d6 |
+|:---------------------:|:---:|
+|                       |     |
+| Make a Discovery      | 12  |
 
 #### Foraging Complications
 
-* You encounter a danger
+| Complication       | 2d6 |
+|:------------------:|:---:|
+|                    |     |
+| Encounter a Danger | 12  |
+
+
+## Example Location
+
+
+\page
+
+___
+___
+> ## Quoraska Jungle
+>*Vast, unaligned*
+> ___
+> - **Armor Class** AC
+> - **Hit Points** Hitpoints
+> - **Speed** Speed
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|Str (Mod)|Dex (Mod)|Con (Mod)|Int (Mod)|Wis (Mod)|Cha (Mod)|
+>___
+> - **Saving Throws** saving_throws
+> - **Skills** skills
+> - **Damage Vulnerabilities** damage_vulnerabilities
+> - **Damage Resistances** Resistances
+> - **Damage Immunities** Damage_Immunities
+> - **Condition Immunities** condition_Immunities
+> - **Senses** Senses
+> - **Languages** Languages
+> - **Challenge** Challenge and Xp
+> ___
+>
+> ### Actions
+> ***Multiattack.*** The Creature Name makes Number and type of attacks
+>
+> ***Ability Description.*** *Attack Style:* Attack Bonus to hit, Reach/Range, one target. *Hit* Damage Damage Type damage
+>
+> ***General Ability Description.*** General Attack Description
+
+
+\page
+
+
+##### Ideas for later
+
+Locations should have major points of interest, perhaps undiscovered.
+
+Tiered difficulties for making way inward.
+
+Find ways to offer party advantages or bonuses for preparation
+
+Locations have qualities like a malignant corrupting magical influence.
+
+Some locations may be ~~almost~~ sentient.
+
+Injuries as setbacks?
+
+Could an injury be a strained ability check?
+
+Prevent a player from preforming certain navigation duties for a time period?
+
+Slow travel movement
+
+Suffer hit dice strain for 1dX days  ?
+
+Suffer exhaustion ?
+
+The party loses faith in your ability to perform duty for 1dx days
+
+How do these mechanics work with spells like good berry, cure wounds, etc.  ?
+
+Encounter Dangers or Obstacles? Are these just the same concept?
+Obstacles:
+* natural features that present a challenge to the party
+    * a raging river
+        * ford
+    * chasm or gorge
+        * create a bridge?
+    * etc
+* obstacles should challenge the party's skills
+    * perhaps athletics checks to cross a chasm, etc
+    * some obstacles may limit the party's ability to continue in a certain direction
+        * a solution should (almost) always be to find a way around (at the cost of time)
 
 
 ##### Inspiration
