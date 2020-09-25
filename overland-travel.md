@@ -84,3 +84,11 @@ Make a Wisdom (Survival) check vs the Forage DC of the location. On a success, y
 #### Foraging Complications
 
 * You encounter a danger
+
+
+##### Inspiration
+
+Dungeon World,
+Perilous Wilds
+DMG ch 5
+PHB ch 8
