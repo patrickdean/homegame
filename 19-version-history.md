@@ -1,8 +1,20 @@
 ---
-order: 9
+order: 19
+title: Version History
 ---
 
 # Version History
+
+### 2020-09-25
+#### New Addtion
+* Overland Travel
+    * First Draft Created
+
+#### Changes
+* House Rules > Catch your breath
+    * Updated; referencing Overland Travel
+* House Rules > Overland Travel
+    * Reference Overland Travel Page
 
 ### 2020-09-19
 #### Major Changes

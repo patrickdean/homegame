@@ -8,9 +8,13 @@ The following rules are presented as options to the players to spice up the game
 
 ## Catch your breath
 
-At any time outside of an encounter (combat, social, or exploration), any player may use an action to catch their breath. Doing so will cause them to gain the benefits of a short rest. You may do this twice, regaining expended uses when you complete a long rest. Players may independently spend this resource as they see fit.
+At any time outside of an encounter (excluding during Overland Travel), any player may use an action to catch their breath. Doing so will cause them to gain the benefits of a short rest. You may do this twice, regaining expended uses when you complete a long rest. Players may independently spend this resource as they see fit.
 
 This feature replaces the normal guidelines regarding taking a short rest.
+
+## Overland Travel
+
+I have attempted to define more interesting and engaging mechanics for overland travel. See the section on Overland Travel for more details.
 
 ## Success at a Cost
 
@@ -22,6 +26,9 @@ Gauge the cost of success versus what you might be willing to pay. Delivering a 
 Before a roll, any player or the DM can offer a devil's bargain, which is a negative effect which will happen regardless of the outcome of the roll, in exchange for advantage on the roll. The rolling player may accept or decline.
 
 So before the barbarian pushes the evil sorcerer off of the dias into the pit of snakes, the DM says: "Devil's Bargain - you may take advantage on this test if you also knock the prisoner into the pit in your haste. Yes or No?"
+
+```
+```
 
 ## Downtime
 Players will be awarded downtime, among other rewards for successfully completing milestones. Players will have options to spend downtime whenever not currently engaged in a mission.
