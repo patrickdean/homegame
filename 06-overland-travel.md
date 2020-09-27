@@ -13,7 +13,7 @@ The rules for movement remain largley the same as chapter 8 of the Player's Hand
 
 During overland travel, the rules for normal resting are altered. Short resting is done when the party makes camp for the night. The party may take a long rest by opting to make camp for 24 hours.
 
-The reason for this change is to give the dangers of the wilderness the respect they deserve and to not trivalize the challenge presented by exploration.
+The reason for this change is to give the dangers of the wilderness the respect they deserve and to not trivialize the challenge presented by exploration.
 
 ## Roles
 
@@ -41,7 +41,7 @@ Make a wisdom check. If you are proficient in Cook's Utensils, you may add your 
 
 ## Other Activities
 
-Once the 3 main roles are fulfilled, additonal party members may partake in the following activities.
+Once the 3 main roles are fulfilled, additional party members may partake in the following activities.
 
 ### Foraging
 
@@ -58,11 +58,11 @@ At the end of a day of traveling, the party settles into rest.
 
 ### Taking Watch
 
-The party establishes a watch order and the GM will choose one person to roll 2d6. On a 10+, the night passes without event. On 7-9, something happens that's not necessarily dangerout. On 6 or lower, a danger approaches! Roll Wisdom (Perception). On a success, the party has time to prepare.
+The party establishes a watch order and the GM will choose one person to roll 2d6. On a 10+, the night passes without event. On 7-9, something happens that's not necessarily dangerous. On 6 or lower, a danger approaches! Roll Wisdom (Perception). On a success, the party has time to prepare.
 
 ### End of Watch
 
-Once the rest is completed, the party may spend hit dice as they normall would at the end of a short rest.
+Once the rest is completed, the party may spend hit dice as they normally would at the end of a short rest.
 
 ### Spending A Day Encamped
 
