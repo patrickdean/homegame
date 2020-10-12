@@ -5,9 +5,11 @@ title: Overland Travel
 
 # Overland Travel
 
+Wilderness exploration is a perilous endeavor. Your characters will be venturing into areas that few have done done before you and making discoveries that fewer still have seen and lived to talk about (if they even did). Some modifications of existing rules are needed to maintain the dramatic tension of exploring the unknown.
+
 ## Movement
 
-The rules for movement remain largley the same as chapter 8 of the Player's Handbook.
+The rules for movement remain largely the same as chapter 8 of the Player's Handbook.
 
 ## Resting
 
@@ -39,6 +41,9 @@ During overland travel, you are responsible for safeguarding the party's food an
 
 Make a wisdom check. If you are proficient in Cook's Utensils, you may add your proficiency bonus to the roll.
 
+```
+```
+
 ## Other Activities
 
 Once the 3 main roles are fulfilled, additional party members may partake in the following activities.
@@ -48,9 +53,6 @@ Once the 3 main roles are fulfilled, additional party members may partake in the
 While traveling at a normal or slow pace and not otherwise engaged in an other activity, a party member may forage for food.
 
 Make a Wisdom (Survival) check vs the Forage DC of the location. On a success, you gain 1d4 rations.
-
-```
-```
 
 ## Making Camp
 
