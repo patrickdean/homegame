@@ -5,8 +5,13 @@ title: Version History
 
 # Version History
 
+### 2020-10-12
+#### Minor Changes
+* Character Creation > Rough and Tumble
+    * Feat name changed and added additional attribute.
+
 ### 2020-09-25
-#### New Addtion
+#### New Addition
 * Overland Travel
     * First Draft Created
 

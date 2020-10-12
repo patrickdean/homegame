@@ -27,13 +27,14 @@ Variant human is **not** permitted because starting with a feat will be allowed 
 
 All feats will be allowed except Tavern Brawler. Multiclassing will be allowed, where it makes RP sense. Background customization is also allowed.
 
-## Tavern Brawler
+## Rough and Tumble
 
-A pulp action story wouldn't be complete without without a tavern brawl and a tavern brawl isn't any fun if the only way for the characters to be effective in it is to paint the walls red with the blood of their enemies. To that end, all characters will gain the following benefits from the tavern brawler feat:
+A pulp action story wouldn't be complete without without a tavern brawl and a tavern brawl isn't any fun if the only way for the characters to be effective in it is to paint the walls red with the blood of their enemies. To that end, all characters will begin play with a modified version of the tavern brawler feat(called 'Rough and Tumble' in D&D Beyond):
 
 * You are proficient with improvised weapons.
 * Your unarmed strike uses a d4 for damage.
 * When you hit a creature with your unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
+* You gain an additional 1 HP per level.
 
 ## Backstory
 
