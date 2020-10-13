@@ -5,6 +5,11 @@ title: Version History
 
 # Version History
 
+### 2020-10-13
+#### Additions
+* House Rules
+    * Heroic Inspiration
+
 ### 2020-10-12
 #### Additions
 * Overland Travel

@@ -16,6 +16,10 @@ This feature replaces the normal guidelines regarding taking a short rest.
 
 I have attempted to define more interesting and engaging mechanics for overland travel. See the section on Overland Travel for more details.
 
+## Heroic Inspiration
+
+All Characters begin each session with inspiration.
+
 ## Success at a Cost
 
 There is always the option to succeed. I offer success at a cost as an option if you come up short. Players that choose to succeed at a cost can negotiate with the Dungeon Master what they have to give up to succeed. Everything is on the table and the player is always able to walk away if the price is too high. But, sometimes, after an epic lead-up and a less-than-epic roll, adding a little negotiation to the control of the narrative can bring the story to a more satisfying conclusion.
