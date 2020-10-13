@@ -1,6 +1,6 @@
 # Strain
 
-Strain is a representation of how much psychological or mental damage a character has taken. As a mechanic, strain exists and a way for a PC to "push their luck" to accomplish great deeds. Strain damage may be taken in extreme conditions such as instances of mental trauma or environmental effects.
+Strain is a representation of how much psychological or mental damage a character has taken. As a mechanic, strain exists and a way for a PC to "push their luck" to accomplish great deeds. Strain damage may also be taken in extreme conditions such as instances of mental trauma or environmental effects at the DM's discretion.
 
 ## Strain Threshold
 
