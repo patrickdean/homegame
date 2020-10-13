@@ -28,7 +28,7 @@ You may suffer 3 points of strain damage to change a failed attack roll, ability
 
 ### Critical Hit
 
-You may suffer X?? 6? points of strain damage to change an attack roll into a critical hit.
+You may suffer X?? 4? 6? points of strain damage to change an attack roll into a critical hit.
 
 ### Exceeding your Strain Threshold
 
@@ -52,13 +52,19 @@ Resting comfortably recovers all strain. Resting uncomfortably recovers strain u
 
 * Strain would replace "strained ability check" for obligation ~ -1/-2/-4 threshold when obligation is triggered.
     * prevents characters from "pushing their luck" so much
-* suffer strain to gain an additional action ? movement ? in combat?
+* is this called strain or stress ?
+* suffer strain to gain an additional action/movement in combat?
 * should strain just apply exhaustion permanently and allow it to interact with resting as normal ??
 * should strain also be a representation of "luck" ? a la stress in blades in the dark???
 * should strain be more short term like Edge of the Empire ? or more long term like Blades in the dark ?
     * Somewhere in the middle ?
 * Should starting threshold be Wis Score ? or 10 + Wis Mod?
+    * DMG has Honor/Sanity optional rule that add another "ability" and gives an additional 11 to the standard array or +3 to point buy. Could do this ?
+        * this would counteract WIS casters being disproportionately favored by using wisdom.
+        * doesn't really offer a lot of reason to improve it other than interacting with this mechanic.
+        * might need to have custom feats to make it useful as an ability
 * How do characters improve their ability to endure strain?
     * by gaining xp: every 4 levels? when they gain ASI/Feat ?
         * ASI/Feat would allow an additional strain via obligation
+    * could have magical items that improve strain threshold.
 * Offer a way to suffer strain to use strain to negate negative things as well, ie, downgrade an enemy's crit to a hit, or a hit to a miss and suffer disadvantage ?
