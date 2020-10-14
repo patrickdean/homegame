@@ -36,12 +36,13 @@ A pulp action story wouldn't be complete without without a tavern brawl and a ta
 * When you hit a creature with your unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
 * You gain an additional 1 HP per level.
 
+```
+```
+
 ## Backstory
 
 In this campaign, I hope to drive a lot of the story from the characters' backstories. Therefore, creating an interesting one is important. I caution against adding too much detail. A fully defined story may prove to be inflexible and make it difficult to work it into the campaign.
 
-```
-```
 
 ### Obligation
 
@@ -69,13 +70,13 @@ See the section on Bonds for inspiration.
 
 Players should integrate an ally and rival into their character's backstory. You may refer to to pages 194-195 of the Explorer's Guide to Wildemount and pages 123-125 of Xanathar's Guide to Everything for inspiration. Give them a relationship to your character as well as goals (XGtE 124). I'll handle defining their assets, plans, and their in game stats. Work them into your Obligation if you can, but it's not required.
 
+\page
+
 ### Heroic Chronicle
 
 If you're having trouble coming up with a backstory, you can use the Heroic Chronicle on page 190 of the Explorer's Guide to Wildemount as inspiration.
 
 For everyone else, at least take a look at it to help fill in a few blanks you have like home town, favorite food and ally/rival relationships. Also, be sure to read up on your homeland and town.
-
-\page
 
 ## Enjoyment is Paramount
 

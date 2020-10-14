@@ -5,6 +5,10 @@ title: Version History
 
 # Version History
 
+### 2020-10-14
+#### Minor Changes
+* Spelling/Formatting throughout
+
 ### 2020-10-13
 #### Additions
 * House Rules

@@ -94,7 +94,7 @@ Players may also resolve bonds that they feel have been resolved. If the player 
 
 ### Leveling Up
 
-When a character acheives enough experience to advance to the next level, they may do so during moments of relative safety. This may be after or in between missions, or during a long rest.
+When a character achieves enough experience to advance to the next level, they may do so during moments of relative safety. This may be after or in between missions, or during a long rest.
 
 ```
 ```

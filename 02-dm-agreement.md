@@ -17,7 +17,7 @@ This doesn't mean I want to only see them succeed, either. I want to see them sw
 
 The actions your characters undertake are risky. They have to be otherwise they wouldn't be adventurers. My goal is to help players understand the risk of the characters actions. If something would be obvious to the character, I will try my best to make sure it's obvious to the player. I find that it is profoundly unsportsmanlike to trick your players by withholding character information just because the player didn't think to ask for it.
 
-I've played in far too many games where the DM describes a scenario that is not fully understood by the player and then commits the player to their course of action. I don't want to be the DM who says "well, that's what you said you were going to do" (ie, the DM's Wangrod defense) when the player didn't fully understand the situation. The players must have access to the information they need to make their decisions to help ensure they're having fun.
+I've played in far too many games where the DM describes a scenario that is not fully understood by the player and then commits the player to their course of action. I don't want to be the DM who says "well, that's what you said you were going to do" (ie, the DM's wangrod defense) when the player didn't fully understand the situation. The players must have access to the information they need to make their decisions to help ensure they're having fun.
 
 ## The Rule of Cool
 
