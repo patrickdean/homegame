@@ -69,3 +69,4 @@ Resting comfortably recovers all strain. Resting uncomfortably recovers strain u
     * could have magical items that improve strain threshold.
 * Offer a way to suffer strain to use strain to negate negative things as well, ie, downgrade an enemy's crit to a hit, or a hit to a miss and suffer disadvantage ?
 * Should strain be allowed to accumulate voluntarily after exceeding the threshold?
+* Causing Disadvantage to an enemy should be one targeting you or being subjected to an affect you caused, I think?
