@@ -5,7 +5,7 @@ const marked = require('marked');
 const Handlebars = require('handlebars');
 const beautify_html = require('js-beautify').html;
 
-files = glob.sync('./*.md');
+files = glob.sync('./sections/*.md');
 
 let contents = [];
 
