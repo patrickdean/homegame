@@ -6,6 +6,10 @@ title: Version History
 # Version History
 
 ### 2020-10-14
+#### Clarifications
+* DM Agreement > Rule of Cool
+    * With all these additions, it seems like 5e isn't as well designed a game as I thought it was...
+
 #### Minor Changes
 * Spelling/Formatting throughout
 * reorder credits and version history
