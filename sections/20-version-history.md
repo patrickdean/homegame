@@ -1,5 +1,5 @@
 ---
-order: 19
+order: 20
 title: Version History
 ---
 
@@ -8,6 +8,7 @@ title: Version History
 ### 2020-10-14
 #### Minor Changes
 * Spelling/Formatting throughout
+* reorder credits and version history
 
 ### 2020-10-13
 #### Additions
