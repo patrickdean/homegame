@@ -32,7 +32,7 @@ You may suffer X?? 4? 6? points of strain damage to change an attack roll into a
 
 ### Exceeding your Strain Threshold
 
-When you exceed your strain threshold, you temporarily gain a level of exhaustion until you are able to bring your strain back to below the threshold. If exceeding your threshold causes you to hit level 6 exhaustion, it's not temporary.
+When you exceed your strain threshold, you temporarily gain a level of exhaustion until you are able to bring your strain back to below the threshold. However, if exceeding your threshold causes you to hit level 6 exhaustion, it's not temporary.
 
 ## Recovering Strain
 
@@ -68,3 +68,4 @@ Resting comfortably recovers all strain. Resting uncomfortably recovers strain u
         * ASI/Feat would allow an additional strain via obligation
     * could have magical items that improve strain threshold.
 * Offer a way to suffer strain to use strain to negate negative things as well, ie, downgrade an enemy's crit to a hit, or a hit to a miss and suffer disadvantage ?
+* Should strain be allowed to accumulate voluntarily after exceeding the threshold?
