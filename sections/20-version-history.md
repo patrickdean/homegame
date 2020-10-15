@@ -13,6 +13,7 @@ title: Version History
 #### Minor Changes
 * Spelling/Formatting/Grammar throughout
 * reorder credits and version history
+* Overview > Changed Title
 
 ### 2020-10-13
 #### Additions

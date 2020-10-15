@@ -1,9 +1,9 @@
 ---
-title: Pulp Campaign Overview
+title: Menagerie Coast Boys
 order: 1
 ---
 
-# Pulp Campaign Overview
+# Menagerie Coast Boys
 
 ## Setting
 
