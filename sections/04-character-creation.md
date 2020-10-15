@@ -7,7 +7,7 @@ title: Character Creation
 
 ## Level
 
-Players will begin play at level 2. If a new player joins the campaign, their character will be created no lower than the level of the lowest party member. When a player creates a replacement character, they will join the campaign with the same experience value as the character they replaced.
+Characters will begin play at level 2. If a new player joins the campaign, their character will be created no lower than the level of the lowest party member. When a player creates a replacement character, they will join the campaign with the same experience value as the character they replaced.
 
 ## Ability Score Generation
 

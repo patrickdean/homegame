@@ -11,7 +11,7 @@ title: Version History
     * With all these additions, it seems like 5e isn't as well designed a game as I thought it was...
 
 #### Minor Changes
-* Spelling/Formatting throughout
+* Spelling/Formatting/Grammar throughout
 * reorder credits and version history
 
 ### 2020-10-13
