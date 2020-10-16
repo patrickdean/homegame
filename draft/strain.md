@@ -4,7 +4,9 @@ Strain is a representation of how much psychological or mental damage a characte
 
 ## Strain Threshold
 
-A character's strain threshold is how much the can endure before they are stunned, dazed, or otherwise incapacitated. Their strain threshold is equal to their Wisdom score plus the number of Ability Score Increases/Feats their character has earned.
+A character's strain threshold is how much the can endure before they are stunned, dazed, or otherwise incapacitated.
+
+Strain Threshold = 8 + your proficiency bonus + your Wisdom modifier
 
 ## Pushing Yourself
 
@@ -52,13 +54,13 @@ Resting comfortably recovers all strain. Resting uncomfortably recovers strain u
 
 * Strain would replace "strained ability check" for obligation ~ -1/-2/-4 threshold when obligation is triggered.
     * prevents characters from "pushing their luck" so much
-* is this called strain or stress ?
+* is this called strain or stress ? maybe luck ?
 * suffer strain to gain an additional action/movement in combat?
 * should strain just apply exhaustion permanently and allow it to interact with resting as normal ??
 * should strain also be a representation of "luck" ? a la stress in blades in the dark???
-* should strain be more short term like Edge of the Empire ? or more long term like Blades in the dark ?
+* should strain "damage" be more short term like Edge of the Empire ? or more long term like Blades in the dark ?
     * Somewhere in the middle ?
-* Should starting threshold be Wis Score ? or 10 + Wis Mod?
+* Should starting threshold be Wis Score ? or 10 + Wis Mod? 10 + prof bonus ? 8 + prof + wis ? 8 + prof + ???
     * DMG has Honor/Sanity optional rule that add another "ability" and gives an additional 11 to the standard array or +3 to point buy. Could do this ?
         * this would counteract WIS casters being disproportionately favored by using wisdom.
         * doesn't really offer a lot of reason to improve it other than interacting with this mechanic.
@@ -67,6 +69,10 @@ Resting comfortably recovers all strain. Resting uncomfortably recovers strain u
     * by gaining xp: every 4 levels? when they gain ASI/Feat ?
         * ASI/Feat would allow an additional strain via obligation
     * could have magical items that improve strain threshold.
+    * could proficiency bonus factor in?
 * Offer a way to suffer strain to use strain to negate negative things as well, ie, downgrade an enemy's crit to a hit, or a hit to a miss and suffer disadvantage ?
 * Should strain be allowed to accumulate voluntarily after exceeding the threshold?
 * Causing Disadvantage to an enemy should be one targeting you or being subjected to an affect you caused, I think?
+* Should strain allow you to get extra class resources ?
+    * Spell slots ? Maybe not ?
+    * Superiority Dice/Bardic Inspiration/Sorcery Points
