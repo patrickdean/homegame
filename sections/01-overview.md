@@ -82,15 +82,27 @@ Players should expect to earn XP every session. My hope is characters will advan
 
 ### Bonus Experience
 
-At the end of each session, bonus experience may be awarded depending on the answers to these three questions:
+At the end of each session, characters may gain additional experience for each of the following things.
+
+#### Questions
+
+Bonus experience may be awarded depending on the answers to these three questions:
 
 * Did we learn something new and important about the world?
 * Did we overcome a notable monster or enemy?
 * Did we loot a memorable treasure?
 
-For each "yes" answer, everyone gets experience equal to a minor milestone for their level.
+For each "yes" answer, everyone gains minor experience.
 
-Players may also resolve bonds that they feel have been resolved. If the player whose character you have a bond with agrees, you may mark the bond as resolved. You gain minor XP and write a new bond with whomever you wish.
+#### Bonds
+
+Players may also gain experience for interacting with the bonds they have with other characters. If you've made progress toward resolving a bond, you gain minor experience and add one to the bond's counter.
+
+If you feel that a bond has been resolved, ask player whose character you have the bond with. If they agree, you may mark the bond as resolved and gain minor experience for each time the bond was counted. Write a new bond with this character based on this change in your relationship.
+
+#### Ideals and Flaws
+
+If, during the session, you expressed your beliefs, ideals, drives, heritage, flaws, or background you gain minor experience. If it happened a lot during a session, you gain medium experience.
 
 ### Leveling Up
 

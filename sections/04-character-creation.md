@@ -60,7 +60,7 @@ This may confer a benefit when the character's obligation is trigger. See Obliga
 
 Bonds represent the relationships that the characters have with each other.
 
-At creation, you will create at least one bond with another party member. At the end of each session, you may resolve one bond. Resolution depends on both you and the character you share the bond with. You suggest the bond is resolved, and, if they agree, it is. When you do, you will gain XP.
+At creation, you will create one bond with each party member. At the end of each session, you may progress or resolve your bond. Resolution depends on both you and the character you share the bond with. You suggest the bond is resolved, and, if they agree, it is. When you progress or resolve a bond, you will gain XP.
 
 You will always have at least one bond and may often have many. New bonds are created whenever a bond is resolved.
 

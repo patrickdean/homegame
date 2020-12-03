@@ -5,21 +5,23 @@ title: Bonds
 
 # Bonds
 
-Bonds are a way to incentivize PC relationships. Bonds are what make you a party of adventurers, not just a random assortment of people. They’re the feelings, thoughts, and shared history that tie you together. You will always have at least one bond, and you’ll often have more.
+Bonds are a way to incentivize PC relationships. Bonds are what make you a party of adventurers, not just a random assortment of people. They’re the feelings, thoughts, and shared history that tie you together. You will always have one bond with each character.
 
 Each bond is a simple statement that relates your character to another player character.
+
+## Progressing Bonds
+
+At the end of each session, if your character progresses their bond with another player, say how. When a bond is progressed, add one to the bond's counter and gain minor experience. You may only gain experience once per session in this manner, but you are still free to increment each bond's counter.
 
 ## Resolving Bonds
 
 A bond is resolved when it no longer describes how you relate to that person. That may be because circumstances have changed—Thelian used to have your back but after he abandoned you to the goblins, you’re not so sure. Or it could be because that’s no longer a question—you guided Wesley before and he owed you, but he paid that debt when he saved your life with a well-timed spell.
 
-Any time you look at a bond and think “that’s not a big factor in how we relate anymore” the bond is at a good place to resolve. When you feel a bond is resolved, ask the player whose character that bond is with if they feel it is resolved. If they agree, the bond is resolved. Your character gains experience equal to a minor milestone for their level. See table for exact values.
+Any time you look at a bond and think “that’s not a big factor in how we relate anymore” the bond is at a good place to resolve. When you feel a bond is resolved, ask the player whose character that bond is with if they feel it is resolved. If they agree, the bond is resolved. Your character gains minor experience for each time the bond was counted. You gain all the experience for each resolved bond regardless of how many are resolved during the session.
 
-## Writing New Bonds
+## Writing Bonds
 
-You write a new bond whenever you resolve an old one. Your new bond may be with the same character, but it doesn’t have to be.
-
-When you write a new bond choose another character. Pick something relevant to the last session—maybe a place you traveled together or a treasure you discovered. Choose a thought or belief your character holds that ties the two together and an action, something you’re going to do about it. You’ll end up with something like this:
+Pick something relevant to the last session—maybe a place you traveled together or a treasure you discovered. Choose a thought or belief your character holds that ties the two together and an action, something you’re going to do about it. You’ll end up with something like this:
 
 <div class='descriptive'>
 
@@ -28,6 +30,8 @@ When you write a new bond choose another character. Pick something relevant to t
 * Valeria’s kindness to the Gnomes of the Vale has swayed my heart, I will prove to her I am not the callous fiend she thinks I am.
 * Xotoq won the Bone-and-Whispers Axe through trickery! It will be mine, I swear it.
 </div>
+
+You write a new bond with a character whenever you resolve an old one. The new bond should be related to the evolution of your relationship with them.
 
 These new bonds are just like the old ones—use them, resolve them, replace them.
 
@@ -49,7 +53,7 @@ _______ shares my hunger for glory; the earth will tremble at our passing!
 
 <div class="classTable">
 
-##### Experience per bond resolution
+##### Experience per bond progress
 
 | Level | XP  | Level | XP   |
 |:-----:|:---:|:-----:|:----:|

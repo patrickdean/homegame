@@ -5,6 +5,12 @@ title: Version History
 
 # Version History
 
+### 2020-12-03
+#### Major Changes
+* Revamped Bonds
+* Overview > Experience
+    * Awarded for Beliefs/Ideals
+
 ### 2020-10-14
 #### Clarifications
 * DM Agreement > Rule of Cool
