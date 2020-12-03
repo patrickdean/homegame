@@ -38,6 +38,14 @@ These new bonds are just like the old ones—use them, resolve them, replace the
 ```
 ```
 
+## New Characters
+
+If a new character is introduced during a session, write the following bond with them:
+
+_______ is unknown to me. I am curious to see if they can prove themselves.
+
+Resolve this bond at the end of this session.
+
 ## Inspiration for bonds by Character Class
 
 These are in no way exhaustive or restrictive.
