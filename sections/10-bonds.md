@@ -33,10 +33,6 @@ Pick something relevant to the last session—maybe a place you traveled togethe
 
 You write a new bond with a character whenever you resolve an old one. The new bond should be related to the evolution of your relationship with them.
 
-```
-
-```
-
 These new bonds are just like the old ones—use them, resolve them, replace them.
 
 ## New Characters

@@ -7,7 +7,7 @@
     "front-matter": "^4.0.2",
     "handlebars": "^4.7.6",
     "js-beautify": "^1.13.0",
-    "marked": "^1.2.0"
+    "marked": "^2.0.3"
   },
   "devDependencies": {
     "browser-sync": "^2.26.13",
@@ -26,7 +26,9 @@
   },
   "nodemonConfig": {
     "ext": "js,json,md,hbs,css,html",
-    "ignore": ["dist/*"]
+    "ignore": [
+      "dist/*"
+    ]
   },
   "repository": {
     "type": "git",
