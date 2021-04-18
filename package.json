@@ -25,7 +25,8 @@
     "dev": "npm-run-all -p nodemon sync"
   },
   "nodemonConfig": {
-    "ext": "js,json,md"
+    "ext": "js,json,md,hbs,css,html",
+    "ignore": ["dist/*"]
   },
   "repository": {
     "type": "git",

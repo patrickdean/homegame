@@ -3,7 +3,6 @@ order: 19
 title: Credits
 ---
 
-
 # Credits
 
 A collection of sources I used in developing this document. I want to give credit where credit is due.
@@ -18,8 +17,8 @@ https://boardgamegeek.com/thread/2131945/using-edge-empires-obligation-mechanic-
 
 ### Dungeon World by LaTorra & Koebel
 
-* Bonds
-* End of Session (Move)
+- Bonds
+- End of Session (Move)
 
 #### Monk bonds
 
@@ -38,6 +37,7 @@ https://www.reddit.com/r/DungeonWorld/comments/4y4gij/critique_my_sorcerer_hack_
 https://drive.google.com/file/d/0ByeMILNKYu-uWEQ1WTJSTVh3WDQ/view
 
 #### Warlock Bonds
+
 Brandon Schmelz
 
 http://www.sotipro.com/DW_PDF/The_Warlock_-_A_Dungeon_World_compatible_class.pdf

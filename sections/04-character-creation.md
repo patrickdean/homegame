@@ -21,7 +21,7 @@ A relic from the past. Feel free to omit it or just use it as a compass, but don
 
 Variant human is **not** permitted because starting with a feat will be allowed via the Obligation system.
 
- Most other races will be permitted. Keep in mind that since this game will be more story driven that NPC attitudes towards various races will be taken into account. This could be good or bad depending on the experience you want to have as a player.
+Most other races will be permitted. Keep in mind that since this game will be more story driven that NPC attitudes towards various races will be taken into account. This could be good or bad depending on the experience you want to have as a player.
 
 ## Optional Rules
 
@@ -31,18 +31,18 @@ All feats will be allowed except Tavern Brawler. Multiclassing will be allowed, 
 
 A pulp action story wouldn't be complete without without a tavern brawl and a tavern brawl isn't any fun if the only way for the characters to be effective in it is to paint the walls red with the blood of their enemies. To that end, all characters will begin play with a modified version of the tavern brawler feat(called 'Rough and Tumble' in D&D Beyond):
 
-* You are proficient with improvised weapons.
-* Your unarmed strike uses a d4 for damage.
-* When you hit a creature with your unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
-* You gain an additional 1 HP per level.
+- You are proficient with improvised weapons.
+- Your unarmed strike uses a d4 for damage.
+- When you hit a creature with your unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
+- You gain an additional 1 HP per level.
 
 ```
+
 ```
 
 ## Backstory
 
 In this campaign, I hope to drive a lot of the story from the characters' backstories. Therefore, creating an interesting one is important. I caution against adding too much detail. A fully defined story may prove to be inflexible and make it difficult to work it into the campaign.
-
 
 ### Obligation
 

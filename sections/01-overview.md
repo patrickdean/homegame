@@ -15,15 +15,16 @@ You've never really found a place for yourself in the world yet. Be it by luck o
 
 Intrigued by the promise the pamphlet you received from them, you decided to enlist in their cause.
 
->##### The Bainbridge Explorer's Society Pamphlet
+> ##### The Bainbridge Explorer's Society Pamphlet
+>
 > Day to day life got you down? Looking for somewhere to run? Want to etch your name in to the annals of history? Look no further than the Bainbridge Explorer's Society! Join this rip-roaring band of misfits as they seek to blaze new trails and make a name for themselves.
 >
-> * Visit exotic locales full of danger
-> * Carouse at run down taverns full of unsavory outlaws
-> * Solve perilous puzzles
-> * Plunder ancient tombs of their untold riches
-> * Battle ancient ferocious beasts
-> * Outwit treacherous villains
+> - Visit exotic locales full of danger
+> - Carouse at run down taverns full of unsavory outlaws
+> - Solve perilous puzzles
+> - Plunder ancient tombs of their untold riches
+> - Battle ancient ferocious beasts
+> - Outwit treacherous villains
 >
 > <p style="text-align: right;">&mdash;Arthur Bainbridge, the Bainbridge Explorer's Society</p>
 
@@ -38,6 +39,7 @@ Over the course of the campaign, characters will confront their own dark pasts a
 We will not be following a set adventure. I want to explore running a D&D game where there is no set goal and see where the concept of shared story telling takes us and drop in interesting encounters and short adventures where needed.
 
 ```
+
 ```
 
 ## A Living, Breathing World
@@ -45,7 +47,6 @@ We will not be following a set adventure. I want to explore running a D&D game w
 The characters aren't expected to be heroes, but shouldn't be villains, either.
 
 Actions have consequences, and while the characters may be big players in the world, they are not without rivals to their power. Characters will also have run-ins with the law, be sure to always to consider your choices and actions fully. An unjust murder may lead to a new obligation. Some settlements may allow you to make the problem go away with gold.
-
 
 ## Character Death and Retirement
 
@@ -69,8 +70,8 @@ In addition, the following content will also be allowed:
 
 ### Third Party
 
-* Gunslinger subclass for fighter (from Matt Mercer)
-* Blood Hunter class (from Matt Mercer)
+- Gunslinger subclass for fighter (from Matt Mercer)
+- Blood Hunter class (from Matt Mercer)
 
 \page
 
@@ -88,9 +89,9 @@ At the end of each session, characters may gain additional experience for each o
 
 Bonus experience may be awarded depending on the answers to these three questions:
 
-* Did we learn something new and important about the world?
-* Did we overcome a notable monster or enemy?
-* Did we loot a memorable treasure?
+- Did we learn something new and important about the world?
+- Did we overcome a notable monster or enemy?
+- Did we loot a memorable treasure?
 
 For each "yes" answer, everyone gains minor experience.
 
@@ -109,6 +110,7 @@ If, during the session, you expressed your beliefs, ideals, drives, heritage, fl
 When a character achieves enough experience to advance to the next level, they may do so during moments of relative safety. This may be after or in between missions, or during a long rest.
 
 ```
+
 ```
 
 <div class="classTable">
@@ -118,24 +120,24 @@ When a character achieves enough experience to advance to the next level, they m
 <br/>
 
 | Level | Minor | Medium | Major |
-|:-----:|:-----:|:------:|:-----:|
-| 2nd   | 50    | 100    | 150   |
-| 3rd   | 75    | 150    | 225   |
-| 4th   | 125   | 250    | 375   |
-| 5th   | 250   | 500    | 750   |
-| 6th   | 300   | 600    | 900   |
-| 7th   | 350   | 750    | 1100  |
-| 8th   | 450   | 900    | 1400  |
-| 9th   | 550   | 1100   | 1600  |
-| 10th  | 600   | 1200   | 1900  |
-| 11th  | 800   | 1600   | 2400  |
-| 12th  | 1000  | 2000   | 3000  |
-| 13th  | 1100  | 2200   | 3400  |
-| 14th  | 1250  | 2500   | 3800  |
-| 15th  | 1400  | 2800   | 4300  |
-| 16th  | 1600  | 3200   | 4800  |
-| 17th  | 2000  | 3900   | 5900  |
-| 18th  | 2100  | 4200   | 6300  |
-| 19th  | 2400  | 4900   | 7300  |
+| :---: | :---: | :----: | :---: |
+|  2nd  |  50   |  100   |  150  |
+|  3rd  |  75   |  150   |  225  |
+|  4th  |  125  |  250   |  375  |
+|  5th  |  250  |  500   |  750  |
+|  6th  |  300  |  600   |  900  |
+|  7th  |  350  |  750   | 1100  |
+|  8th  |  450  |  900   | 1400  |
+|  9th  |  550  |  1100  | 1600  |
+| 10th  |  600  |  1200  | 1900  |
+| 11th  |  800  |  1600  | 2400  |
+| 12th  | 1000  |  2000  | 3000  |
+| 13th  | 1100  |  2200  | 3400  |
+| 14th  | 1250  |  2500  | 3800  |
+| 15th  | 1400  |  2800  | 4300  |
+| 16th  | 1600  |  3200  | 4800  |
+| 17th  | 2000  |  3900  | 5900  |
+| 18th  | 2100  |  4200  | 6300  |
+| 19th  | 2400  |  4900  | 7300  |
 
 </div>

@@ -42,6 +42,7 @@ During overland travel, you are responsible for safeguarding the party's food an
 Make a wisdom check. If you are proficient in Cook's Utensils, you may add your proficiency bonus to the roll.
 
 ```
+
 ```
 
 ## Other Activities

@@ -26,6 +26,7 @@ It is my belief that the combat pillar of 5th Edition Dungeons & Dragons is fair
 As a fan of the heroes, and with goal of enabling players to take on the role of pulp action heroes, I will do my best to let the Rule of Cool have final say (within reason). Having said this, if there's an action that you'd like to try that the rules might not traditionally support, let's talk about it. I want the actions that characters undertake to be audacious as I feel it increases the enjoyment of the game.
 
 ```
+
 ```
 
 ## Make Failure Interesting
