@@ -15,7 +15,7 @@ for (let file of files) {
     if (content.attributes.order) {
         let pages = content.body.split("\\page");
         for (let page of pages) {
-            let html = new Handlebars.SafeString(marked(page));
+            let html = new Handlebars.SafeString(marked.parse(page));
             contents.push({ title: content.attributes.title, content: html });
         }
     }

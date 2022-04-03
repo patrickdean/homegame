@@ -38,10 +38,6 @@ Over the course of the campaign, characters will confront their own dark pasts a
 
 We will not be following a set adventure. I want to explore running a D&D game where there is no set goal and see where the concept of shared story telling takes us and drop in interesting encounters and short adventures where needed.
 
-```
-
-```
-
 ## A Living, Breathing World
 
 The characters aren't expected to be heroes, but shouldn't be villains, either.

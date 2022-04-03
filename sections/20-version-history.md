@@ -117,3 +117,9 @@ title: Version History
 
 - Update DM Agreement > Unintended Consequences
 - Establish version history
+
+### 2022-04-03
+
+#### Minor Changes
+
+- Formatting overview after upgrading 'marked'
