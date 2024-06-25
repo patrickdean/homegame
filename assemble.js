@@ -7,9 +7,15 @@ const beautify_html = require('js-beautify').html;
 
 files = glob.sync('./sections/*.md');
 
+// marked.use({
+//     gfm: true,
+//     breaks: true,
+// })
+
+
 let contents = [];
 
-for (let file of files) {
+for (let file of files.reverse()) {
     let content = fm(fs.readFileSync(file, { encoding: 'utf8', flag: 'r' }));
 
     if (content.attributes.order) {
