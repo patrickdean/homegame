@@ -16,8 +16,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "clean": "rd /s /q dist && mkdir dist\\css",
-    "copy": "copy phb.standalone.css dist\\css",
+    "clean": "rm -rf dist && mkdir dist/css",
+    "copy": "cp phb.standalone.css dist/css",
     "build": "npm run clean && npm run copy && npm start",
     "start": "node assemble.js",
     "nodemon": "npm run copy && nodemon assemble.js",
